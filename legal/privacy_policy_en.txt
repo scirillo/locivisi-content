@@ -1,0 +1,40 @@
+Locivisi — Privacy Policy
+Last updated: June 2026
+
+Summary
+Locivisi helps you explore cultural sites in Rome on Android and iOS. Your trip data stays on your device. We do not operate user accounts or sell personal data.
+
+Data stored on your device
+The apps store the following locally:
+- Visited and “want to visit” flags per site
+- Private notes you write about sites
+- Trip planner days and assigned sites
+- Theme and language preferences
+- An optional display name you set in Profile
+
+On Android this data is stored using Room and DataStore. On iOS it is stored using SwiftData and UserDefaults. This data is not uploaded to our servers because we do not operate a backend for Locivisi.
+
+Network usage
+The apps use the Internet to:
+- Load map tiles via Google Maps (Android and iOS)
+- Load site images referenced in the bundled catalogue
+- Open external websites when you tap official site, ticket, or audio links
+- Open an optional Ko-fi checkout page when you choose “Support Locivisi” in Profile (voluntary tip; no account required in Locivisi)
+
+Google Maps is provided by Google and subject to Google’s privacy policy.
+Ko-fi handles optional support payments and has its own privacy policy.
+
+External links
+Ticket, official website, and audio links open in your browser (or an in-app browser tab). Those third-party sites have their own privacy practices.
+
+Analytics and advertising
+Locivisi does not include analytics SDKs or in-app advertising.
+
+Children
+Locivisi is not directed at children under 13.
+
+Changes
+We may update this policy as the app evolves. Material changes will be reflected in a future app update and on our published policy page.
+
+Contact
+Questions about this policy: privacy@locivisi.app

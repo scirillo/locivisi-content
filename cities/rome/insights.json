@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tip_explore_map",
+    "pillKey": "insight_pill_tip",
+    "textKey": "insight_explore_map",
+    "relatedSiteId": null
+  },
+  {
+    "id": "rome_founding",
+    "pillKey": "insight_pill_rome",
+    "textKey": "insight_rome_founding",
+    "relatedSiteId": null
+  },
+  {
+    "id": "rome_capital",
+    "pillKey": "insight_pill_rome",
+    "textKey": "insight_rome_capital",
+    "relatedSiteId": null
+  },
+  {
+    "id": "vatican_city",
+    "pillKey": "insight_pill_rome",
+    "textKey": "insight_vatican_city",
+    "relatedSiteId": "q182955_vatican_museums"
+  },
+  {
+    "id": "capitoline_museums",
+    "pillKey": "insight_pill_history",
+    "textKey": "insight_capitoline_museums",
+    "relatedSiteId": "q333906_capitoline_museums"
+  },
+  {
+    "id": "fountains",
+    "pillKey": "insight_pill_rome",
+    "textKey": "insight_rome_fountains",
+    "relatedSiteId": null
+  },
+  {
+    "id": "layers",
+    "pillKey": "insight_pill_history",
+    "textKey": "insight_rome_layers",
+    "relatedSiteId": null
+  },
+  {
+    "id": "caracalla",
+    "pillKey": "insight_pill_history",
+    "textKey": "insight_caracalla",
+    "relatedSiteId": null
+  }
+]

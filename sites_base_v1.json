@@ -1,0 +1,2147 @@
+[
+  {
+    "id": "q623612_ara_pacis_museum",
+    "name": "Ara Pacis Museum",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.906388888889,
+    "lng": 12.475555555556,
+    "neighborhood": "Campo Marzio",
+    "address": "Lungotevere in Augusta, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ara_Pacis_(SW).jpg/1280px-Ara_Pacis_(SW).jpg"
+    ],
+    "shortDescription": "Museum complex preserving the Ara Pacis, an Augustan altar monument.",
+    "highlights": [
+      {
+        "title": "Ara Pacis reliefs",
+        "url": "https://www.arapacis.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ara_Pacis_(SW).jpg/960px-Ara_Pacis_(SW).jpg"
+      },
+      {
+        "title": "Richard Meier pavilion",
+        "url": "https://www.arapacis.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ara_Pacis_(SW).jpg/960px-Ara_Pacis_(SW).jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.arapacis.it/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/ara-pacis-museum/",
+      "hoursNote": "Daily 9:30–19:30; closed Mon.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q623612",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q623612",
+        "https://www.arapacis.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q84090_san_giovanni_laterano",
+    "name": "Archbasilica of Saint John Lateran",
+    "type": "CHURCH",
+    "lat": 41.885905555556,
+    "lng": 12.506155555556,
+    "neighborhood": "Laterano",
+    "address": "Piazza di San Giovanni in Laterano, 00184 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/San_Giovanni_in_Laterano_2021.jpg/1280px-San_Giovanni_in_Laterano_2021.jpg"
+    ],
+    "shortDescription": "Cathedral church of Rome and one of the four papal major basilicas.",
+    "highlights": [
+      {
+        "title": "Façade and nave",
+        "url": "https://www.basilicasangiovanni.va/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/San_Giovanni_in_Laterano_2021.jpg/960px-San_Giovanni_in_Laterano_2021.jpg"
+      },
+      {
+        "title": "Holy Stairs and baptistery",
+        "url": "https://www.basilicasangiovanni.va/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rom,_die_Heilige_Treppe.JPG/960px-Rom,_die_Heilige_Treppe.JPG"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.basilicasangiovanni.va/",
+      "ticketUrl": null,
+      "hoursNote": "Basilica daily 7:00–18:30; cloister and baptistery may require tickets.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q84090",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q84090",
+        "https://www.basilicasangiovanni.va/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q318660_santa_maria_aracoeli",
+    "name": "Basilica di Santa Maria in Aracoeli",
+    "type": "CHURCH",
+    "lat": 41.893888888889,
+    "lng": 12.483333333333,
+    "neighborhood": "Campidoglio",
+    "address": "Scala dell'Arce Capitolina, 12, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg/1280px-Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg"
+    ],
+    "shortDescription": "Historic basilica on Capitoline Hill, reached by a monumental staircase.",
+    "highlights": [
+      {
+        "title": "Medieval cosmatesque floor",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_in_Aracoeli",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg/960px-Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg"
+      },
+      {
+        "title": "Capitoline staircase",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_in_Aracoeli",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg/960px-Santa_Maria_in_Aracoeli_(Rome)_-_Facade.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.basilicasantamariamaggiore.va/",
+      "ticketUrl": null,
+      "hoursNote": "Daily 9:00–17:30; hours may vary on feast days.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q318660",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q318660"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q186282_santa_maria_maggiore",
+    "name": "Basilica di Santa Maria Maggiore",
+    "type": "CHURCH",
+    "lat": 41.8975,
+    "lng": 12.498611111111,
+    "neighborhood": "Esquilino",
+    "address": "Piazza di Santa Maria Maggiore, 00185 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg/1280px-Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg"
+    ],
+    "shortDescription": "One of Rome's major papal basilicas and an important Marian sanctuary.",
+    "highlights": [
+      {
+        "title": "5th-century mosaics",
+        "url": "https://www.basilicasantamariamaggiore.va/it.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg/960px-Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg"
+      },
+      {
+        "title": "Bernini's tomb",
+        "url": "https://www.basilicasantamariamaggiore.va/it.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg/960px-Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.basilicasantamariamaggiore.va/it.html",
+      "ticketUrl": null,
+      "hoursNote": "Daily 7:00–18:45; papal museum has separate hours.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q186282",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q186282",
+        "https://www.basilicasantamariamaggiore.va/it.html"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1137391_santa_maria_trastevere",
+    "name": "Basilica of Santa Maria in Trastevere",
+    "type": "CHURCH",
+    "lat": 41.889444,
+    "lng": 12.469722,
+    "neighborhood": "Trastevere",
+    "address": "Piazza di Santa Maria in Trastevere, 00153 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/01_Santa_Maria_in_Trastevere_Facade.jpg/1280px-01_Santa_Maria_in_Trastevere_Facade.jpg"
+    ],
+    "shortDescription": "Ancient Trastevere basilica known for medieval mosaics and lively piazza setting.",
+    "highlights": [
+      {
+        "title": "Apse mosaics",
+        "url": "https://www.santamariaintrastevere.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/01_Santa_Maria_in_Trastevere_Facade.jpg/960px-01_Santa_Maria_in_Trastevere_Facade.jpg"
+      },
+      {
+        "title": "Piazza fountain",
+        "url": "https://www.santamariaintrastevere.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Piazza_di_Santa_Maria_in_Trastevere.jpg/960px-Piazza_di_Santa_Maria_in_Trastevere.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.santamariaintrastevere.it/",
+      "ticketUrl": null,
+      "hoursNote": "Daily 8:00–20:00; respect liturgies.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1137391",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1137391",
+        "https://www.santamariaintrastevere.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q231699_san_paolo_fuori_le_mura",
+    "name": "Basilica papale di San Paolo fuori le mura",
+    "type": "CHURCH",
+    "lat": 41.858611111111,
+    "lng": 12.477222222222,
+    "neighborhood": "Ostiense",
+    "address": "Piazzale San Paolo, 1, 00146 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/StPaul.jpg/1280px-StPaul.jpg"
+    ],
+    "shortDescription": "One of the four major papal basilicas in Rome, dedicated to Saint Paul.",
+    "highlights": [
+      {
+        "title": "Basilica nave and apse",
+        "url": "http://www.vatican.va/various/basiliche/san_paolo/index_en.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/StPaul.jpg/960px-StPaul.jpg"
+      },
+      {
+        "title": "Cloister and mosaics",
+        "url": "http://www.vatican.va/various/basiliche/san_paolo/index_en.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Saint_Paul_Outside_the_Walls_-_Cloister.jpg/960px-Saint_Paul_Outside_the_Walls_-_Cloister.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.vatican.va/various/basiliche/san_paolo/index_en.html",
+      "ticketUrl": null,
+      "hoursNote": "Daily 7:00–18:30; cloister ticket separate.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q231699",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q231699",
+        "http://www.vatican.va/various/basiliche/san_paolo/index_en.html"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3867590_casina_delle_civette",
+    "name": "Casina delle Civette",
+    "type": "MUSEUM",
+    "lat": 41.91418475001263,
+    "lng": 12.51289059576934,
+    "neighborhood": "Nomentano",
+    "address": "Via Nomentana, 70, 00161 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Casina_delle_Civette.jpg/1280px-Casina_delle_Civette.jpg"
+    ],
+    "shortDescription": "Art Nouveau-style house museum in Villa Torlonia with stained glass and decorative interiors.",
+    "highlights": [
+      {
+        "title": "Stained-glass rooms",
+        "url": "http://www.museivillatorlonia.it/casina_delle_civette",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Casina_delle_Civette.jpg/960px-Casina_delle_Civette.jpg"
+      },
+      {
+        "title": "Art Nouveau interiors",
+        "url": "http://www.museivillatorlonia.it/casina_delle_civette",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Casina_delle_Civette.jpg/960px-Casina_delle_Civette.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.museivillatorlonia.it/casina_delle_civette",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/casina-delle-civette/",
+      "hoursNote": "Tue–Sun 9:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3867590",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3867590",
+        "http://www.museivillatorlonia.it/casina_delle_civette"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q486382_castel_santangelo",
+    "name": "Castel Sant'Angelo",
+    "type": "MUSEUM",
+    "lat": 41.903044,
+    "lng": 12.466307,
+    "neighborhood": "Borgo",
+    "address": "Lungotevere Castello, 50, 00193 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant'Angelo_at_Night.jpg/1280px-Castel_Sant'Angelo_at_Night.jpg"
+    ],
+    "shortDescription": "Former imperial mausoleum transformed into fortress and museum near the Tiber.",
+    "highlights": [
+      {
+        "title": "Ramparts and terraces",
+        "url": "https://castelsantangelo.beniculturali.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant'Angelo_at_Night.jpg/960px-Castel_Sant'Angelo_at_Night.jpg"
+      },
+      {
+        "title": "Papal apartments",
+        "url": "https://castelsantangelo.beniculturali.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Castel_Sant'Angelo_-_Rome.jpg/960px-Castel_Sant'Angelo_-_Rome.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://castelsantangelo.beniculturali.it/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/castel-sant-angelo/",
+      "hoursNote": "Tue–Sun 9:00–19:30; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q486382",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q486382",
+        "http://www.castelsantangelo.beniculturali.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1053970_centrale_montemartini",
+    "name": "Centrale Montemartini",
+    "type": "MUSEUM",
+    "lat": 41.8722,
+    "lng": 12.4786,
+    "neighborhood": "Ostiense",
+    "address": "Via Ostiense, 106, 00154 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg/1280px-Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg"
+    ],
+    "shortDescription": "Former power plant displaying classical sculptures amid industrial machinery.",
+    "highlights": [
+      {
+        "title": "Sculpture in turbine hall",
+        "url": "https://museonazionaleromano.beniculturali.it/en/centrale-montemartini/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg/1280px-Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg"
+      },
+      {
+        "title": "Mosaic and portrait rooms",
+        "url": "https://museonazionaleromano.beniculturali.it/en/centrale-montemartini/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg/1280px-Le_mus%C3%A9e_de_la_centrale_Montemartini_(Rome)_(33828659930).jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://museonazionaleromano.beniculturali.it/en/centrale-montemartini/",
+      "ticketUrl": "https://museonazionaleromano.beniculturali.it/en/acquista-online/",
+      "hoursNote": "Tue–Sun 9:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1053970",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1053970",
+        "https://museonazionaleromano.beniculturali.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q1192577_santagnese_in_agone",
+    "name": "Chiesa di Sant'Agnese in Agone",
+    "type": "CHURCH",
+    "lat": 41.89877,
+    "lng": 12.4726,
+    "neighborhood": "Parione",
+    "address": "Via di Santa Maria dell'Anima, 30, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fa%C3%A7ade_of_Sant'Agnese_in_Agone,_Rome,_Italy.jpg/1280px-Fa%C3%A7ade_of_Sant'Agnese_in_Agone,_Rome,_Italy.jpg"
+    ],
+    "shortDescription": "Baroque church on Piazza Navona with rich decoration and historical significance.",
+    "highlights": [
+      {
+        "title": "Borromini façade",
+        "url": "https://www.santagneseinagone.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fa%C3%A7ade_of_Sant'Agnese_in_Agone,_Rome,_Italy.jpg/960px-Fa%C3%A7ade_of_Sant'Agnese_in_Agone,_Rome,_Italy.jpg"
+      },
+      {
+        "title": "Dome frescoes",
+        "url": "https://www.santagneseinagone.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sant'Agnese_in_Agone_(Rome)_esterno.jpg/960px-Sant'Agnese_in_Agone_(Rome)_esterno.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.santagneseinagone.org/",
+      "ticketUrl": null,
+      "hoursNote": "Daily 9:00–13:00 and 15:00–19:00; hours may vary.",
+      "timeToVisitMinutes": 40
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1192577",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1192577",
+        "https://www.santagneseinagone.org/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1465674_santignazio_church",
+    "name": "Chiesa di Sant'Ignazio di Loyola",
+    "type": "CHURCH",
+    "lat": 41.899248,
+    "lng": 12.480072,
+    "neighborhood": "Pigna",
+    "address": "Via del Caravita, 8a, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Church_of_Sant'Ignazio_di_Loyola.jpg/1280px-Church_of_Sant'Ignazio_di_Loyola.jpg"
+    ],
+    "shortDescription": "Baroque church in central Rome known for its illusionistic frescoes and Jesuit history.",
+    "highlights": [
+      {
+        "title": "Andrea Pozzo ceiling fresco",
+        "url": "http://santignazio.gesuiti.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Church_of_Sant'Ignazio_di_Loyola.jpg/960px-Church_of_Sant'Ignazio_di_Loyola.jpg"
+      },
+      {
+        "title": "Illusionistic dome",
+        "url": "http://santignazio.gesuiti.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Church_of_Sant'Ignazio_di_Loyola.jpg/960px-Church_of_Sant'Ignazio_di_Loyola.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "http://santignazio.gesuiti.it/",
+      "ticketUrl": null,
+      "hoursNote": "Daily 7:30–19:00; respect services.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1465674",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1465674",
+        "http://santignazio.gesuiti.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1258576_san_pietro_in_montorio",
+    "name": "Church of San Pietro in Montorio",
+    "type": "CHURCH",
+    "lat": 41.88907,
+    "lng": 12.466851,
+    "neighborhood": "Trastevere",
+    "address": "Piazza San Pietro in Montorio, 2, 00153 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/San_Pietro_in_Montorio_-_esterno.jpg/1280px-San_Pietro_in_Montorio_-_esterno.jpg"
+    ],
+    "shortDescription": "Historic church on the Janiculum hill known for Bramante's Tempietto.",
+    "highlights": [
+      {
+        "title": "Bramante's Tempietto",
+        "url": "http://www.sanpietroinmontorio.it/home.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tempietto_del_Bramante_(2).jpg/960px-Tempietto_del_Bramante_(2).jpg"
+      },
+      {
+        "title": "Janiculum views",
+        "url": "http://www.sanpietroinmontorio.it/home.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/San_Pietro_in_Montorio_-_esterno.jpg/960px-San_Pietro_in_Montorio_-_esterno.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.sanpietroinmontorio.it/home.html",
+      "ticketUrl": null,
+      "hoursNote": "Daily 8:30–12:00 and 15:00–18:00; Tempietto in cloister.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1258576",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1258576",
+        "http://www.sanpietroinmontorio.it/home.html"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q207808_circus_maximus",
+    "name": "Circus Maximus",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.8859,
+    "lng": 12.4857,
+    "neighborhood": "Circo Massimo",
+    "address": "Via del Circo Massimo, 00186 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CircusMaximusSO.jpg/1280px-CircusMaximusSO.jpg"
+    ],
+    "shortDescription": "Ancient chariot-racing stadium now a public park with views toward the Palatine.",
+    "highlights": [
+      {
+        "title": "Track and spina ruins",
+        "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CircusMaximusSO.jpg/1280px-CircusMaximusSO.jpg"
+      },
+      {
+        "title": "Palatine Hill backdrop",
+        "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CircusMaximusSO.jpg/1280px-CircusMaximusSO.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": null,
+      "ticketUrl": null,
+      "hoursNote": "Outdoor archaeological area; walkable park open daily.",
+      "timeToVisitMinutes": 30
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q207808",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q207808"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q10285_colosseum",
+    "name": "Colosseum",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.89021,
+    "lng": 12.492231,
+    "neighborhood": "Monti",
+    "address": "Piazza del Colosseo, 00184 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg"
+    ],
+    "shortDescription": "Ancient Rome's great amphitheatre and one of the world's most recognisable monuments.",
+    "highlights": [
+      {
+        "title": "Arena and hypogeum",
+        "url": "https://colosseo.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/640px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+      },
+      {
+        "title": "Upper tiers and views",
+        "url": "https://colosseo.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://colosseo.it/",
+      "ticketUrl": "https://colosseo.it/en/tickets/",
+      "hoursNote": "Daily 9:00–19:15; last entry varies by season. Closed 1 Jan and 25 Dec.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q10285",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q10285",
+        "https://colosseo.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q2301489_doria_pamphilj_gallery",
+    "name": "Doria Pamphilj Gallery",
+    "type": "MUSEUM",
+    "lat": 41.8962,
+    "lng": 12.4812,
+    "neighborhood": "Centro Storico",
+    "address": "Via del Corso, 305, 00186 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palazzo_Doria_Pamphilj.jpg/1280px-Palazzo_Doria_Pamphilj.jpg"
+    ],
+    "shortDescription": "Private palace gallery with Velázquez, Caravaggio, and Bernini in a noble Roman residence.",
+    "highlights": [
+      {
+        "title": "Velázquez papal portrait",
+        "url": "https://www.doriapamphilj.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palazzo_Doria_Pamphilj.jpg/1280px-Palazzo_Doria_Pamphilj.jpg"
+      },
+      {
+        "title": "Gallery of Mirrors",
+        "url": "https://www.doriapamphilj.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palazzo_Doria_Pamphilj.jpg/1280px-Palazzo_Doria_Pamphilj.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.doriapamphilj.it/",
+      "ticketUrl": "https://www.doriapamphilj.it/en/visit/book-your-visit/",
+      "hoursNote": "Mon–Thu and Sat–Sun 9:00–19:00; Fri 11:00–19:00.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q2301489",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q2301489",
+        "https://www.doriapamphilj.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q841506_galleria_borghese",
+    "name": "Galleria Borghese",
+    "type": "MUSEUM",
+    "lat": 41.91421,
+    "lng": 12.492144,
+    "neighborhood": "Pinciano",
+    "address": "Piazzale Scipione Borghese, 5, 00197 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Roma_Museo_Borghese.jpg/1280px-Roma_Museo_Borghese.jpg"
+    ],
+    "shortDescription": "Major art museum in Villa Borghese, renowned for Bernini sculptures and Caravaggio paintings.",
+    "highlights": [
+      {
+        "title": "Apollo and Daphne (Bernini)",
+        "url": "https://galleriaborghese.beniculturali.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg/960px-Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg"
+      },
+      {
+        "title": "David (Bernini)",
+        "url": "https://galleriaborghese.beniculturali.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_(Bernini)_-_Galleria_Borghese.jpg/960px-David_(Bernini)_-_Galleria_Borghese.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://galleriaborghese.beniculturali.it/",
+      "ticketUrl": "https://ticketvisit.pierreci.it/categoria/galleria-borghese",
+      "hoursNote": "Tue–Sun by timed entry; closed Mon.",
+      "timeToVisitMinutes": 120
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q841506",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q841506",
+        "https://galleriaborghese.beniculturali.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1971299_galleria_colonna",
+    "name": "Galleria Colonna",
+    "type": "HISTORICAL",
+    "lat": 41.89763611,
+    "lng": 12.48421389,
+    "neighborhood": "Centro Storico",
+    "address": "Via della Pilotta, 17, 00187 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trevi_-_palazzo_colonna_e_basilica_santi_apostoli_01.JPG/1280px-Trevi_-_palazzo_colonna_e_basilica_santi_apostoli_01.JPG"
+    ],
+    "shortDescription": "Historic Roman palace gallery with aristocratic collections and richly decorated halls.",
+    "highlights": [
+      {
+        "title": "Great Hall",
+        "url": "http://www.galleriacolonna.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Galleria_Colonna,_Rome.jpg/960px-Galleria_Colonna,_Rome.jpg"
+      },
+      {
+        "title": "Palace apartments",
+        "url": "http://www.galleriacolonna.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trevi_-_palazzo_colonna_e_basilica_santi_apostoli_01.JPG/960px-Trevi_-_palazzo_colonna_e_basilica_santi_apostoli_01.JPG"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "http://www.galleriacolonna.it",
+      "ticketUrl": "http://www.galleriacolonna.it/visit/",
+      "hoursNote": "Sat 9:00–13:15; some Fri mornings—check official calendar.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1971299",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1971299",
+        "http://www.galleriacolonna.it"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3757712_galleria_arte_moderna_roma",
+    "name": "Galleria d'Arte Moderna di Roma Capitale",
+    "type": "MUSEUM",
+    "lat": 41.90384087180541,
+    "lng": 12.485766122643955,
+    "neighborhood": "Nomentano",
+    "address": "Via Francesco Crispi, 24, 00187 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg/1280px-Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg"
+    ],
+    "shortDescription": "Municipal museum focused on modern and contemporary Roman and Italian art.",
+    "highlights": [
+      {
+        "title": "19th-century Roman art",
+        "url": "http://www.galleriaartemodernaroma.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg/960px-Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg"
+      },
+      {
+        "title": "Temporary exhibitions",
+        "url": "http://www.galleriaartemodernaroma.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg/960px-Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.galleriaartemodernaroma.it",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/galleria-d-arte-moderna/",
+      "hoursNote": "Tue–Sun 10:00–18:30; closed Mon.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3757712",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3757712",
+        "http://www.galleriaartemodernaroma.it"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3757713_galleria_spada",
+    "name": "Galleria Spada",
+    "type": "MUSEUM",
+    "lat": 41.8947,
+    "lng": 12.4722,
+    "neighborhood": "Centro Storico",
+    "address": "Piazza Capo di Ferro, 13, 00186 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/938RomaPalazzoSpada.JPG/1280px-938RomaPalazzoSpada.JPG"
+    ],
+    "shortDescription": "Baroque palace gallery famous for Borromini's forced-perspective colonnade.",
+    "highlights": [
+      {
+        "title": "Borromini perspective gallery",
+        "url": "https://www.barberinicorsini.org/en/galleria-spada/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/938RomaPalazzoSpada.JPG/1280px-938RomaPalazzoSpada.JPG"
+      },
+      {
+        "title": "Caravaggio and Titian works",
+        "url": "https://www.barberinicorsini.org/en/galleria-spada/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/938RomaPalazzoSpada.JPG/1280px-938RomaPalazzoSpada.JPG"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.barberinicorsini.org/en/galleria-spada/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/galleria-spada/",
+      "hoursNote": "Tue–Sun 10:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3757713",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3757713",
+        "https://www.barberinicorsini.org/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q724816_jewish_museum_rome",
+    "name": "Jewish Museum of Rome",
+    "type": "MUSEUM",
+    "lat": 41.8914,
+    "lng": 12.4772,
+    "neighborhood": "Ghetto",
+    "address": "Lungotevere de' Cenci, 00186 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Great_Synagogue_of_Rome.jpg/1280px-Great_Synagogue_of_Rome.jpg"
+    ],
+    "shortDescription": "Museum beneath the Great Synagogue tracing two millennia of Roman Jewish history.",
+    "highlights": [
+      {
+        "title": "Synagogue and museum tour",
+        "url": "https://www.museoebraico.roma.it/en/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Great_Synagogue_of_Rome.jpg/1280px-Great_Synagogue_of_Rome.jpg"
+      },
+      {
+        "title": "Jewish Ghetto context",
+        "url": "https://www.museoebraico.roma.it/en/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Great_Synagogue_of_Rome.jpg/1280px-Great_Synagogue_of_Rome.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://www.museoebraico.roma.it/en/",
+      "ticketUrl": "https://www.museoebraico.roma.it/en/visit/booking/",
+      "hoursNote": "Sun–Thu guided visits; hours vary—book ahead.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q724816",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q724816",
+        "https://www.museoebraico.roma.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q1283630_keats_shelley_house",
+    "name": "Keats-Shelley Memorial House",
+    "type": "MUSEUM",
+    "lat": 41.9056,
+    "lng": 12.4822,
+    "neighborhood": "Tridente",
+    "address": "Piazza di Spagna, 26, 00187 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Keats-Shelley_House.jpg/1280px-Keats-Shelley_House.jpg"
+    ],
+    "shortDescription": "House museum at the Spanish Steps where John Keats spent his final months.",
+    "highlights": [
+      {
+        "title": "Keats's room",
+        "url": "https://ksh.roma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Keats-Shelley_House.jpg/1280px-Keats-Shelley_House.jpg"
+      },
+      {
+        "title": "Romantic poets library",
+        "url": "https://ksh.roma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Keats-Shelley_House.jpg/1280px-Keats-Shelley_House.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://ksh.roma.it/",
+      "ticketUrl": "https://ksh.roma.it/visit/",
+      "hoursNote": "Mon–Sat 10:00–13:00 and 14:00–18:00; closed Sun.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1283630",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1283630",
+        "https://ksh.roma.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "leonardo_experience_rome",
+    "name": "Leonardo Da Vinci Experience Museum",
+    "type": "MUSEUM",
+    "lat": 41.9023813,
+    "lng": 12.463663,
+    "neighborhood": "Borgo",
+    "address": "Via della Conciliazione 19, Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leonardo_da_Vinci_-_Vitruvian_Man_-_Google_Art_Project.jpg/1280px-Leonardo_da_Vinci_-_Vitruvian_Man_-_Google_Art_Project.jpg"
+    ],
+    "shortDescription": "Interactive museum focused on Leonardo da Vinci inventions and reproductions.",
+    "highlights": [
+      {
+        "title": "Machine inventions",
+        "url": "https://www.leonardodavincimuseo.com/en/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leonardo_da_Vinci_-_Vitruvian_Man_-_Google_Art_Project.jpg/960px-Leonardo_da_Vinci_-_Vitruvian_Man_-_Google_Art_Project.jpg"
+      },
+      {
+        "title": "Anatomy studies",
+        "url": "https://www.leonardodavincimuseo.com/en/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Leonardo_da_Vinci_-_Study_of_an_old_man.jpg/960px-Leonardo_da_Vinci_-_Study_of_an_old_man.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.leonardodavincimuseo.com/en/",
+      "ticketUrl": "https://www.leonardodavincimuseo.com/en/prodotto/leonardo-da-vinci-experience-museum/",
+      "hoursNote": "Daily 9:00–19:00.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": null,
+      "sourceUrls": [
+        "https://www.leonardodavincimuseo.com/en/",
+        "https://www.turismoroma.it/it/node/247"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1356135_macro_rome",
+    "name": "MACRO - Museum of Contemporary Art of Rome",
+    "type": "MUSEUM",
+    "lat": 41.9242,
+    "lng": 12.5012,
+    "neighborhood": "Salario",
+    "address": "Via Nizza, 138, 00198 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Macro_Rome.jpg/1280px-Macro_Rome.jpg"
+    ],
+    "shortDescription": "Contemporary art museum in a former Peroni brewery in Salario/Nomentano.",
+    "highlights": [
+      {
+        "title": "Temporary exhibitions",
+        "url": "https://www.macro.roma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Macro_Rome.jpg/1280px-Macro_Rome.jpg"
+      },
+      {
+        "title": "Permanent collection",
+        "url": "https://www.macro.roma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Macro_Rome.jpg/1280px-Macro_Rome.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.macro.roma.it/",
+      "ticketUrl": "https://www.macro.roma.it/en/visit/",
+      "hoursNote": "Tue–Sun 10:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1356135",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1356135",
+        "https://www.macro.roma.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q3868408_maxxi",
+    "name": "MAXXI - National Museum of 21st Century Arts",
+    "type": "MUSEUM",
+    "lat": 41.9283,
+    "lng": 12.4689,
+    "neighborhood": "Flaminio",
+    "address": "Via Guido Reni, 4A, 00196 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/MAXXI_%2827483747665%29.jpg/1280px-MAXXI_%2827483747665%29.jpg"
+    ],
+    "shortDescription": "Zaha Hadid-designed museum for contemporary art and architecture in Flaminio.",
+    "highlights": [
+      {
+        "title": "Permanent collections",
+        "url": "https://www.maxxi.art/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/MAXXI_%2827483747665%29.jpg/1280px-MAXXI_%2827483747665%29.jpg"
+      },
+      {
+        "title": "Architecture gallery",
+        "url": "https://www.maxxi.art/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/MAXXI_%2827483747665%29.jpg/1280px-MAXXI_%2827483747665%29.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.maxxi.art/",
+      "ticketUrl": "https://www.maxxi.art/en/visits/opening-times-and-tickets/",
+      "hoursNote": "Tue–Sun 11:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3868408",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3868408",
+        "https://www.maxxi.art/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q478642_mercati_traiano",
+    "name": "Mercati di Traiano",
+    "type": "MUSEUM",
+    "lat": 41.8956,
+    "lng": 12.4864,
+    "neighborhood": "Monti",
+    "address": "Via IV Novembre, 94, 00187 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg/1280px-Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg"
+    ],
+    "shortDescription": "Imperial forum markets turned museum with panoramic terraces over the ancient city.",
+    "highlights": [
+      {
+        "title": "Great Hall and brick vaults",
+        "url": "https://www.mercatiditraiano.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg/1280px-Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg"
+      },
+      {
+        "title": "Forum of Trajan views",
+        "url": "https://www.mercatiditraiano.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg/1280px-Mercati_di_Traiano_e_foro_di_Traiano%2C_Roma.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.mercatiditraiano.it/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/mercati-di-traiano-museum-of-the-imperial-fora/",
+      "hoursNote": "Daily 9:30–19:30; last entry 18:30.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q478642",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q478642",
+        "https://www.mercatiditraiano.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q333906_capitoline_museums",
+    "name": "Musei Capitolini",
+    "type": "MUSEUM",
+    "lat": 41.893055555556,
+    "lng": 12.482777777778,
+    "neighborhood": "Campidoglio",
+    "address": "Piazza del Campidoglio, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG/1280px-0_Cordonata_-_Dioscuri_-_Palazzo_Senatorio.JPG"
+    ],
+    "shortDescription": "Rome's civic museums on Capitoline Hill, among the oldest public museum complexes in the world.",
+    "highlights": [
+      {
+        "title": "Capitoline Wolf",
+        "url": "https://museicapitolini.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg/960px-Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg"
+      },
+      {
+        "title": "Colossus of Constantine",
+        "url": "https://museicapitolini.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Statua_colossale_di_Costantino_I.jpg/960px-Statua_colossale_di_Costantino_I.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://museicapitolini.org/",
+      "ticketUrl": "https://www.ticketing.museicapitolini.org/",
+      "hoursNote": "Daily 9:30–19:30; last entry 18:30.",
+      "timeToVisitMinutes": 120
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q333906",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q333906",
+        "https://museicapitolini.org/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q17636813_musei_villa_torlonia",
+    "name": "Musei di Villa Torlonia",
+    "type": "MUSEUM",
+    "lat": 41.91476576290545,
+    "lng": 12.511332382847947,
+    "neighborhood": "Nomentano",
+    "address": "Via Nomentana, 70, 00161 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Casino_Nobile_-_Villa_Torlonia.jpg/1280px-Casino_Nobile_-_Villa_Torlonia.jpg"
+    ],
+    "shortDescription": "Museum network inside Villa Torlonia including multiple exhibition spaces.",
+    "highlights": [
+      {
+        "title": "Casino Nobile",
+        "url": "http://www.museivillatorlonia.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Casino_Nobile_-_Villa_Torlonia.jpg/960px-Casino_Nobile_-_Villa_Torlonia.jpg"
+      },
+      {
+        "title": "Casina delle Civette",
+        "url": "http://www.museivillatorlonia.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Casina_delle_Civette.jpg/960px-Casina_delle_Civette.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.museivillatorlonia.it",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/villa-torlonia-museums/",
+      "hoursNote": "Tue–Sun 9:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q17636813",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q17636813",
+        "http://www.museivillatorlonia.it"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3867587_museo_carlo_bilotti",
+    "name": "Museo Carlo Bilotti",
+    "type": "MUSEUM",
+    "lat": 41.91336389,
+    "lng": 12.48338889,
+    "neighborhood": "Pinciano",
+    "address": "Viale Fiorello La Guardia, 6, 00197 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roma-museoBilotti01.jpg/1280px-Roma-museoBilotti01.jpg"
+    ],
+    "shortDescription": "Museum inside Villa Borghese featuring the Carlo Bilotti collection and rotating exhibitions.",
+    "highlights": [
+      {
+        "title": "Carlo Bilotti collection",
+        "url": "http://www.museocarlobilotti.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roma-museoBilotti01.jpg/960px-Roma-museoBilotti01.jpg"
+      },
+      {
+        "title": "Orangery exhibitions",
+        "url": "http://www.museocarlobilotti.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roma-museoBilotti01.jpg/960px-Roma-museoBilotti01.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.museocarlobilotti.it/",
+      "ticketUrl": null,
+      "hoursNote": "Tue–Sun 10:00–16:00; closed Mon.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3867587",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3867587",
+        "http://www.museocarlobilotti.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3868175_museo_roma_palazzo_braschi",
+    "name": "Museo di Roma - Palazzo Braschi",
+    "type": "MUSEUM",
+    "lat": 41.89728878423184,
+    "lng": 12.472850122634853,
+    "neighborhood": "Parione",
+    "address": "Piazza di San Pantaleo, 10, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg/1280px-Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg"
+    ],
+    "shortDescription": "Museum of Rome's urban history, housed in the neoclassical Palazzo Braschi.",
+    "highlights": [
+      {
+        "title": "Rome city history",
+        "url": "http://www.museodiroma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg/960px-Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg"
+      },
+      {
+        "title": "Views over Piazza Navona",
+        "url": "http://www.museodiroma.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg/960px-Palais_Braschi_-_Rome_(IT62)_-_2021-08-29_-_3.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.museodiroma.it/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/museo-di-roma-palazzo-braschi/",
+      "hoursNote": "Tue–Sun 10:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3868175",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3868175",
+        "http://www.museodiroma.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q3868176_museo_napoleonico",
+    "name": "Museo Napoleonico",
+    "type": "MUSEUM",
+    "lat": 41.9031,
+    "lng": 12.4692,
+    "neighborhood": "Centro Storico",
+    "address": "Piazza di Ponte Umberto I, 1, 00186 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Museo_Napoleonico.jpg/1280px-Museo_Napoleonico.jpg"
+    ],
+    "shortDescription": "Collection on Napoleon and his family in a Renaissance palace near Piazza Navona.",
+    "highlights": [
+      {
+        "title": "Bonaparte family portraits",
+        "url": "https://www.museonapoleonico.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Museo_Napoleonico.jpg/1280px-Museo_Napoleonico.jpg"
+      },
+      {
+        "title": "Period furnishings",
+        "url": "https://www.museonapoleonico.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Museo_Napoleonico.jpg/1280px-Museo_Napoleonico.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.museonapoleonico.it/",
+      "ticketUrl": "https://www.museonapoleonico.it/en/visit/",
+      "hoursNote": "Tue–Sun 10:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 60
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q3868176",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q3868176",
+        "https://www.museonapoleonico.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q1094986_palazzo_altemps",
+    "name": "Museo Nazionale Romano - Palazzo Altemps",
+    "type": "MUSEUM",
+    "lat": 41.901337,
+    "lng": 12.472968,
+    "neighborhood": "Ponte",
+    "address": "Piazza di Sant'Apollinare, 46, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Roma_2011_08_07_Palazzo_Altemps.jpg/1280px-Roma_2011_08_07_Palazzo_Altemps.jpg"
+    ],
+    "shortDescription": "Renaissance palace housing classical sculpture collections within the National Roman Museum system.",
+    "highlights": [
+      {
+        "title": "Ludovisi Battle sarcophagus",
+        "url": "https://museonazionaleromano.beniculturali.it/en/palazzo-altemps/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ludovisi_Battle_sarcophagus_(Altemps).jpg/960px-Ludovisi_Battle_sarcophagus_(Altemps).jpg"
+      },
+      {
+        "title": "Renaissance courtyard",
+        "url": "https://museonazionaleromano.beniculturali.it/en/palazzo-altemps/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Roma_2011_08_07_Palazzo_Altemps.jpg/960px-Roma_2011_08_07_Palazzo_Altemps.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://museonazionaleromano.beniculturali.it/en/palazzo-altemps/",
+      "ticketUrl": "https://museonazionaleromano.beniculturali.it/en/acquista-online/",
+      "hoursNote": "Tue–Sun 11:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1094986",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1094986",
+        "https://museonazionaleromano.beniculturali.it/palazzo-altemps/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1074320_museum_roman_civilization",
+    "name": "Museum of Roman Civilization",
+    "type": "MUSEUM",
+    "lat": 41.8325,
+    "lng": 12.4678,
+    "neighborhood": "EUR",
+    "address": "Piazza Giovanni Agnelli, 10, 00144 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Museo_della_Civilt%C3%A0_Romana.jpg/1280px-Museo_della_Civilt%C3%A0_Romana.jpg"
+    ],
+    "shortDescription": "EUR district museum with a vast model of ancient Rome and everyday Roman life displays.",
+    "highlights": [
+      {
+        "title": "Plastico di Roma Imperiale",
+        "url": "https://www.museociviltaromana.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Museo_della_Civilt%C3%A0_Romana.jpg/1280px-Museo_della_Civilt%C3%A0_Romana.jpg"
+      },
+      {
+        "title": "Daily life collections",
+        "url": "https://www.museociviltaromana.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Museo_della_Civilt%C3%A0_Romana.jpg/1280px-Museo_della_Civilt%C3%A0_Romana.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.museociviltaromana.it/",
+      "ticketUrl": null,
+      "hoursNote": "Check official site for current opening—hours have changed during renovations.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1074320",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1074320",
+        "https://www.museociviltaromana.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q15055388_villa_giulia_etruscan",
+    "name": "National Etruscan Museum of Villa Giulia",
+    "type": "MUSEUM",
+    "lat": 41.918636,
+    "lng": 12.476265,
+    "neighborhood": "Pinciano",
+    "address": "Piazzale di Villa Giulia, 9, 00196 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Villa_Giulia_modified.jpg/1280px-Villa_Giulia_modified.jpg"
+    ],
+    "shortDescription": "Key museum for Etruscan civilization, housed in a Renaissance villa.",
+    "highlights": [
+      {
+        "title": "Sarcophagus of the Spouses",
+        "url": "https://www.museoetru.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sarcophagus_of_the_Spouses_-_National_Etruscan_Museum.jpg/960px-Sarcophagus_of_the_Spouses_-_National_Etruscan_Museum.jpg"
+      },
+      {
+        "title": "Villa Giulia gardens",
+        "url": "https://www.museoetru.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Villa_Giulia_modified.jpg/960px-Villa_Giulia_modified.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://www.museoetru.it/",
+      "ticketUrl": "https://www.museoetru.it/en/visit/tickets/",
+      "hoursNote": "Tue–Sun 9:00–20:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q15055388",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q15055388",
+        "https://www.museoetru.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1492387_gnamc",
+    "name": "National Gallery of Modern and Contemporary Art",
+    "type": "MUSEUM",
+    "lat": 41.917046,
+    "lng": 12.4799803,
+    "neighborhood": "Pinciano",
+    "address": "Viale delle Belle Arti, 131, 00197 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg/1280px-Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg"
+    ],
+    "shortDescription": "Italy's national museum dedicated to modern and contemporary art in Rome.",
+    "highlights": [
+      {
+        "title": "19th–21st century masterpieces",
+        "url": "https://gnamc.cultura.gov.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg/960px-Galleria_nazionale_d'arte_moderna_-_Rome,_Italy_-_DSC05142.jpg"
+      },
+      {
+        "title": "De Chirico and Morandi rooms",
+        "url": "https://gnamc.cultura.gov.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg/960px-Galleria_d'arte_moderna_di_roma_capitale,_esterno_01.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://gnamc.cultura.gov.it/",
+      "ticketUrl": "https://gnamc.cultura.gov.it/en/visit/",
+      "hoursNote": "Tue–Sun 9:00–19:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1492387",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1492387",
+        "https://gnamc.cultura.gov.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q836108_baths_of_diocletian",
+    "name": "National Roman Museum - Baths of Diocletian",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.90277778,
+    "lng": 12.49833333,
+    "neighborhood": "Esquilino",
+    "address": "Viale Enrico de Nicola, 78, 00185 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baths_of_Diocletian-Antmoose1.jpg/1280px-Baths_of_Diocletian-Antmoose1.jpg"
+    ],
+    "shortDescription": "Monumental late-imperial bath complex integrated into the National Roman Museum itinerary.",
+    "highlights": [
+      {
+        "title": "Great hall of baths",
+        "url": "https://museonazionaleromano.beniculturali.it/en/terme-di-diocleziano/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baths_of_Diocletian-Antmoose1.jpg/960px-Baths_of_Diocletian-Antmoose1.jpg"
+      },
+      {
+        "title": "Garden cloister",
+        "url": "https://museonazionaleromano.beniculturali.it/en/terme-di-diocleziano/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Michelangelo_Cloister_-_Museum_of_Roman_Civilization.jpg/960px-Michelangelo_Cloister_-_Museum_of_Roman_Civilization.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://museonazionaleromano.beniculturali.it/en/terme-di-diocleziano/",
+      "ticketUrl": "https://museonazionaleromano.beniculturali.it/en/acquista-online/",
+      "hoursNote": "Tue–Sun 11:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q836108",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q836108",
+        "https://museonazionaleromano.beniculturali.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1094987_palazzo_massimo",
+    "name": "National Roman Museum - Palazzo Massimo",
+    "type": "MUSEUM",
+    "lat": 41.9004,
+    "lng": 12.4982,
+    "neighborhood": "Esquilino",
+    "address": "Largo di Villa Peretti, 2, 00185 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Roma09_flickr.jpg/1280px-Roma09_flickr.jpg"
+    ],
+    "shortDescription": "Outstanding classical sculpture and Roman fresco rooms near Termini.",
+    "highlights": [
+      {
+        "title": "Boxer at Rest",
+        "url": "https://museonazionaleromano.beniculturali.it/en/palazzo-massimo/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Roma09_flickr.jpg/1280px-Roma09_flickr.jpg"
+      },
+      {
+        "title": "Garden Villa frescoes",
+        "url": "https://museonazionaleromano.beniculturali.it/en/palazzo-massimo/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Roma09_flickr.jpg/1280px-Roma09_flickr.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://museonazionaleromano.beniculturali.it/en/palazzo-massimo/",
+      "ticketUrl": "https://museonazionaleromano.beniculturali.it/en/acquista-online/",
+      "hoursNote": "Tue–Sun 11:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 120
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1094987",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1094987",
+        "https://museonazionaleromano.beniculturali.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q2586829_palatine_hill",
+    "name": "Palatine Hill",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.8883,
+    "lng": 12.4872,
+    "neighborhood": "Monti",
+    "address": "Via di San Gregorio, 00186 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+    ],
+    "shortDescription": "Legendary birthplace of Rome with imperial palace ruins and views over the Forum.",
+    "highlights": [
+      {
+        "title": "Domus Augustana ruins",
+        "url": "https://colosseo.it/en/area/palatino/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+      },
+      {
+        "title": "Views over Circus Maximus",
+        "url": "https://colosseo.it/en/area/palatino/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://colosseo.it/en/area/palatino/",
+      "ticketUrl": "https://colosseo.it/en/tickets/",
+      "hoursNote": "Included with Colosseum/Forum combined ticket.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q2586829",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q2586829",
+        "https://colosseo.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q1136614_palazzo_barberini",
+    "name": "Palazzo Barberini",
+    "type": "MUSEUM",
+    "lat": 41.90332420919847,
+    "lng": 12.48985606990967,
+    "neighborhood": "Trevi",
+    "address": "Via delle Quattro Fontane, 13, 00187 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palazzo_Barberini_-_esterno.jpg/1280px-Palazzo_Barberini_-_esterno.jpg"
+    ],
+    "shortDescription": "Baroque palace museum hosting part of the National Galleries of Ancient Art.",
+    "highlights": [
+      {
+        "title": "Pietro da Cortona ceiling",
+        "url": "http://www.barberinicorsini.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palazzo_Barberini_-_Il_trionfo_della_Divina_Provvidenza.jpg/960px-Palazzo_Barberini_-_Il_trionfo_della_Divina_Provvidenza.jpg"
+      },
+      {
+        "title": "Caravaggio and Raphael works",
+        "url": "http://www.barberinicorsini.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palazzo_Barberini_-_esterno.jpg/960px-Palazzo_Barberini_-_esterno.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "http://www.barberinicorsini.org/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/palazzo-barberini/",
+      "hoursNote": "Tue–Sun 10:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 100
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1136614",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1136614",
+        "http://www.barberinicorsini.org/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1136615_palazzo_corsini",
+    "name": "Palazzo Corsini - National Gallery of Ancient Art",
+    "type": "MUSEUM",
+    "lat": 41.8894,
+    "lng": 12.4675,
+    "neighborhood": "Trastevere",
+    "address": "Via della Lungara, 10, 00165 Roma",
+    "featuredOnMap": false,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palazzo_Corsini_%28Rome%29.jpg/1280px-Palazzo_Corsini_%28Rome%29.jpg"
+    ],
+    "shortDescription": "Baroque palace in Trastevere with Caravaggio, Rubens, and river-side gardens.",
+    "highlights": [
+      {
+        "title": "Caravaggio Saint John",
+        "url": "https://www.barberinicorsini.org/en/palazzo-corsini/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palazzo_Corsini_%28Rome%29.jpg/1280px-Palazzo_Corsini_%28Rome%29.jpg"
+      },
+      {
+        "title": "Botanical garden access",
+        "url": "https://www.barberinicorsini.org/en/palazzo-corsini/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palazzo_Corsini_%28Rome%29.jpg/1280px-Palazzo_Corsini_%28Rome%29.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.barberinicorsini.org/en/palazzo-corsini/",
+      "ticketUrl": "https://www.coopculture.it/en/events/museums-and-places/palazzo-corsini/",
+      "hoursNote": "Tue–Sun 10:00–18:00; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1136615",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1136615",
+        "https://www.barberinicorsini.org/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q99309_pantheon",
+    "name": "Pantheon",
+    "type": "CHURCH",
+    "lat": 41.8986108,
+    "lng": 12.4768729,
+    "neighborhood": "Pigna",
+    "address": "Piazza della Rotonda, 00186 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/1280px-Pantheon_Rom_1_cropped.jpg"
+    ],
+    "shortDescription": "Best-preserved ancient Roman temple, now a church with its famous coffered dome and oculus.",
+    "highlights": [
+      {
+        "title": "Dome and oculus",
+        "url": "https://www.pantheonroma.com/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/1280px-Pantheon_Rom_1_cropped.jpg"
+      },
+      {
+        "title": "Raphael's tomb",
+        "url": "https://www.pantheonroma.com/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/1280px-Pantheon_Rom_1_cropped.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "https://www.pantheonroma.com/",
+      "ticketUrl": "https://www.pantheonroma.com/en/visit/tickets/",
+      "hoursNote": "Mon–Sat 9:00–19:00; Sun 9:00–18:00. Mass times may limit visits.",
+      "timeToVisitMinutes": 45
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q99309",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q99309",
+        "https://www.pantheonroma.com/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q180540_roman_forum",
+    "name": "Roman Forum",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.8925,
+    "lng": 12.4853,
+    "neighborhood": "Monti",
+    "address": "Via della Salara Vecchia, 00186 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+    ],
+    "shortDescription": "Heart of ancient Rome with temples, basilicas, and imperial ruins in one archaeological park.",
+    "highlights": [
+      {
+        "title": "Via Sacra and temples",
+        "url": "https://colosseo.it/en/area/foro-romano/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+      },
+      {
+        "title": "House of the Vestals",
+        "url": "https://colosseo.it/en/area/foro-romano/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Foro_Romano_-_panoramio.jpg/1280px-Foro_Romano_-_panoramio.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://colosseo.it/en/area/foro-romano/",
+      "ticketUrl": "https://colosseo.it/en/tickets/",
+      "hoursNote": "Same ticket and hours as the Colosseum archaeological park.",
+      "timeToVisitMinutes": 120
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q180540",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q180540",
+        "https://colosseo.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q112972_spanish_steps",
+    "name": "Spanish Steps",
+    "type": "HISTORICAL",
+    "lat": 41.905837,
+    "lng": 12.482361,
+    "neighborhood": "Tridente",
+    "address": "Piazza di Spagna, 00187 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Piazza_di_Spagna_(Rome)_0004.jpg/1280px-Piazza_di_Spagna_(Rome)_0004.jpg"
+    ],
+    "shortDescription": "Monumental staircase linking Piazza di Spagna to Trinità dei Monti.",
+    "highlights": [
+      {
+        "title": "Piazza di Spagna",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Steps",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Piazza_di_Spagna_(Rome)_0004.jpg/1280px-Piazza_di_Spagna_(Rome)_0004.jpg"
+      },
+      {
+        "title": "Trinità dei Monti church",
+        "url": "https://www.trinitamonti.org/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Piazza_di_Spagna_(Rome)_0004.jpg/1280px-Piazza_di_Spagna_(Rome)_0004.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": null,
+      "ticketUrl": null,
+      "hoursNote": "Outdoor site; sitting on steps may be restricted at times—check local rules.",
+      "timeToVisitMinutes": 30
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q112972",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q112972"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q12501_st_peters_basilica",
+    "name": "St Peter's Basilica",
+    "type": "CHURCH",
+    "lat": 41.902167,
+    "lng": 12.453937,
+    "neighborhood": "Vatican",
+    "address": "Piazza San Pietro, 00120 Città del Vaticano",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+    ],
+    "shortDescription": "Principal papal basilica and masterpiece of Renaissance architecture in Vatican City.",
+    "highlights": [
+      {
+        "title": "Michelangelo's Pietà",
+        "url": "https://www.vatican.va/content/vatican/en.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+      },
+      {
+        "title": "Dome climb",
+        "url": "https://www.vatican.va/content/vatican/en.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": true,
+      "officialUrl": "https://www.vatican.va/content/vatican/en.html",
+      "ticketUrl": null,
+      "hoursNote": "Basilica generally 7:00–19:00; dome and grottoes have separate hours and fees.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q12501",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q12501",
+        "https://www.vatican.va/"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q502098_terme_di_caracalla",
+    "name": "Terme di Caracalla",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.880264,
+    "lng": 12.492764,
+    "neighborhood": "Appio Latino",
+    "address": "Viale delle Terme di Caracalla, 52, 00179 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Baths_of_Caracalla,_facing_Caldarium.jpg/1280px-Baths_of_Caracalla,_facing_Caldarium.jpg"
+    ],
+    "shortDescription": "Vast imperial bath complex and one of Rome's most impressive archaeological sites.",
+    "highlights": [
+      {
+        "title": "Monumental halls",
+        "url": "https://colosseo.it/en/area/terme-di-caracalla/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Baths_of_Caracalla,_facing_Caldarium.jpg/960px-Baths_of_Caracalla,_facing_Caldarium.jpg"
+      },
+      {
+        "title": "Summer opera season",
+        "url": "https://colosseo.it/en/area/terme-di-caracalla/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Baths_of_Caracalla,_facing_Caldarium.jpg/960px-Baths_of_Caracalla,_facing_Caldarium.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://colosseo.it/en/area/terme-di-caracalla/",
+      "ticketUrl": "https://colosseo.it/en/tickets/",
+      "hoursNote": "Tue–Sun 9:00 until sunset; closed Mon.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q502098",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q502098",
+        "https://colosseo.it/area/terme-di-caracalla/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q192784_trajans_column",
+    "name": "Trajan's Column",
+    "type": "ARCHAEOLOGY",
+    "lat": 41.895833333333,
+    "lng": 12.484166666667,
+    "neighborhood": "Monti",
+    "address": "Via dei Fori Imperiali, 00186 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trajan's_Column_HD.jpg/1280px-Trajan's_Column_HD.jpg"
+    ],
+    "shortDescription": "Ancient Roman victory column commemorating Trajan's Dacian campaigns.",
+    "highlights": [
+      {
+        "title": "Spiral relief frieze",
+        "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trajan's_Column_HD.jpg/960px-Trajan's_Column_HD.jpg"
+      },
+      {
+        "title": "Forum of Trajan setting",
+        "url": "https://www.mercatiditraiano.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercati_di_Traiano_-_Roma.jpg/960px-Mercati_di_Traiano_-_Roma.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": null,
+      "ticketUrl": null,
+      "hoursNote": "Outdoor monument, visible at all times.",
+      "timeToVisitMinutes": 20
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q192784",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q192784"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1741_trevi_fountain",
+    "name": "Trevi Fountain",
+    "type": "HISTORICAL",
+    "lat": 41.900932,
+    "lng": 12.483313,
+    "neighborhood": "Trevi",
+    "address": "Piazza di Trevi, 00187 Roma",
+    "featuredOnMap": true,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1280px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg"
+    ],
+    "shortDescription": "Baroque fountain and Rome's most famous wish-making landmark.",
+    "highlights": [
+      {
+        "title": "Oceanus façade",
+        "url": "https://en.wikipedia.org/wiki/Trevi_Fountain",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1280px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg"
+      },
+      {
+        "title": "Evening illumination",
+        "url": "https://en.wikipedia.org/wiki/Trevi_Fountain",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1280px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": null,
+      "ticketUrl": null,
+      "hoursNote": "Outdoor monument; accessible 24 hours. Expect crowds midday and evening.",
+      "timeToVisitMinutes": 20
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1741",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1741"
+      ],
+      "verifiedAt": "2026-06-23"
+    }
+  },
+  {
+    "id": "q182955_vatican_museums",
+    "name": "Vatican Museums",
+    "type": "MUSEUM",
+    "lat": 41.906388888889,
+    "lng": 12.454444444444,
+    "neighborhood": "Vatican",
+    "address": "Viale Vaticano, 00120 Città del Vaticano",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vatican_Museums_Spiral_Staircase_2012.jpg/1280px-Vatican_Museums_Spiral_Staircase_2012.jpg"
+    ],
+    "shortDescription": "One of the world's largest museum complexes, featuring major papal collections and Renaissance masterpieces.",
+    "highlights": [
+      {
+        "title": "Sistine Chapel ceiling",
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_(cropped).jpg/960px-Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+      },
+      {
+        "title": "Gallery of Maps",
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/galleria-delle-carte-geografiche.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vatican_Museums_-_Gallery_of_Maps_-_Sala_bella.jpg/960px-Vatican_Museums_-_Gallery_of_Maps_-_Sala_bella.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "https://www.museivaticani.va/",
+      "ticketUrl": "https://tickets.museivaticani.va/",
+      "hoursNote": "Mon–Sat 8:00–20:00; last entry 18:00. Last Sun of month 8:00–14:00.",
+      "timeToVisitMinutes": 180
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q182955",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q182955",
+        "https://www.museivaticani.va/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": true
+  },
+  {
+    "id": "q1126723_villa_farnesina",
+    "name": "Villa Farnesina",
+    "type": "HISTORICAL",
+    "lat": 41.893611111111,
+    "lng": 12.4675,
+    "neighborhood": "Trastevere",
+    "address": "Via della Lungara, 230, 00165 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/La_villa_Farnesina_(Rome)_(34029492720).jpg/1280px-La_villa_Farnesina_(Rome)_(34029492720).jpg"
+    ],
+    "shortDescription": "Renaissance villa in Trastevere celebrated for Raphael school frescoes.",
+    "highlights": [
+      {
+        "title": "Loggia of Psyche",
+        "url": "http://www.villafarnesina.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Galatea_(Raphael)_Villa_Farnesina.jpg/960px-Galatea_(Raphael)_Villa_Farnesina.jpg"
+      },
+      {
+        "title": "Raphael frescoes",
+        "url": "http://www.villafarnesina.it",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/La_villa_Farnesina_(Rome)_(34029492720).jpg/960px-La_villa_Farnesina_(Rome)_(34029492720).jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.villafarnesina.it",
+      "ticketUrl": "https://www.villafarnesina.it/en/visit/booking/",
+      "hoursNote": "Mon–Sat 9:00–17:00; closed Sun.",
+      "timeToVisitMinutes": 75
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1126723",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1126723",
+        "http://www.villafarnesina.it"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q1362663_villa_medici",
+    "name": "Villa Medici",
+    "type": "HISTORICAL",
+    "lat": 41.90827,
+    "lng": 12.48252,
+    "neighborhood": "Pinciano",
+    "address": "Viale della Trinità dei Monti, 1, 00187 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Villa_Medici_Roma_01.jpg/1280px-Villa_Medici_Roma_01.jpg"
+    ],
+    "shortDescription": "Historic Medici villa and seat of the French Academy in Rome.",
+    "highlights": [
+      {
+        "title": "French Academy gardens",
+        "url": "http://www.villamedici.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Villa_Medici_Roma_01.jpg/960px-Villa_Medici_Roma_01.jpg"
+      },
+      {
+        "title": "Guided palace tours",
+        "url": "http://www.villamedici.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Villa_Medici_-_Rome.jpg/960px-Villa_Medici_-_Rome.jpg"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": true,
+      "reservationRecommended": true,
+      "officialUrl": "http://www.villamedici.it/",
+      "ticketUrl": "https://www.villamedici.it/en/visit/",
+      "hoursNote": "Guided tours on set schedule—book on official site.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q1362663",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1362663",
+        "http://www.villamedici.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  },
+  {
+    "id": "q474857_villa_torlonia_rome",
+    "name": "Villa Torlonia",
+    "type": "HISTORICAL",
+    "lat": 41.91574477723019,
+    "lng": 12.511283950243996,
+    "neighborhood": "Nomentano",
+    "address": "Via Nomentana, 70, 00161 Roma",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Villa_Torlonia_01304.JPG/1280px-Villa_Torlonia_01304.JPG"
+    ],
+    "shortDescription": "Historic Roman villa complex with landscaped grounds and multiple museum venues.",
+    "highlights": [
+      {
+        "title": "Historic park",
+        "url": "http://www.museivillatorlonia.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Villa_Torlonia_01304.JPG/960px-Villa_Torlonia_01304.JPG"
+      },
+      {
+        "title": "Casino Nobile exterior",
+        "url": "http://www.museivillatorlonia.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Villa_Torlonia_01304.JPG/960px-Villa_Torlonia_01304.JPG"
+      }
+    ],
+    "visitingInfo": {
+      "ticketRequired": false,
+      "reservationRecommended": false,
+      "officialUrl": "http://www.museivillatorlonia.it/",
+      "ticketUrl": null,
+      "hoursNote": "Park open daily; museum buildings have separate hours.",
+      "timeToVisitMinutes": 90
+    },
+    "audio": null,
+    "_meta": {
+      "wikidataId": "Q474857",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q474857",
+        "http://www.museivillatorlonia.it/"
+      ],
+      "verifiedAt": "2026-06-23"
+    },
+    "featuredOnMap": false
+  }
+]

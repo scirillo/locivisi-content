@@ -1,0 +1,741 @@
+{
+  "q623612_ara_pacis_museum": {
+    "name": "Museo dell'Ara Pacis",
+    "shortDescription": "Complesso museale che conserva the Ara Pacis, an Augustan altar monument.",
+    "highlights": [
+      {
+        "title": "Rilievi dell'Ara Pacis"
+      },
+      {
+        "title": "Padiglione di Richard Meier"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:30–19:30; chiuso il lunedì."
+    }
+  },
+  "q84090_san_giovanni_laterano": {
+    "name": "Arcibasilica di San Giovanni in Laterano",
+    "shortDescription": "Cattedrale di Roma and una delle quattro basiliche papali maggiori.",
+    "highlights": [
+      {
+        "title": "Facciata e navata"
+      },
+      {
+        "title": "Scala Santa e battistero"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Basilica tutti i giorni 7:00–18:30; cloister and baptistery potrebbero richiedere biglietto."
+    }
+  },
+  "q318660_santa_maria_aracoeli": {
+    "shortDescription": "Storica basilica on Capitoline Hill, reached by a monumental staircase.",
+    "highlights": [
+      {
+        "title": "Medieval cosmatesque floor"
+      },
+      {
+        "title": "Capitoline staircase"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:00–17:30; hours may vary on feast days."
+    }
+  },
+  "q186282_santa_maria_maggiore": {
+    "shortDescription": "Una delle maggiori basiliche papali di Roma and an important Marian sanctuary.",
+    "highlights": [
+      {
+        "title": "5th-century mosaics"
+      },
+      {
+        "title": "Bernini's tomb"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 7:00–18:45; papal museum has separate hours."
+    }
+  },
+  "q1137391_santa_maria_trastevere": {
+    "name": "Basilica di Santa Maria in Trastevere",
+    "shortDescription": "Antica basilica di Trastevere known for medieval mosaics and lively piazza setting.",
+    "highlights": [
+      {
+        "title": "Apse mosaics"
+      },
+      {
+        "title": "Piazza fountain"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 8:00–20:00; respect liturgies."
+    }
+  },
+  "q231699_san_paolo_fuori_le_mura": {
+    "name": "Basilica papale di San Paolo fuori le mura",
+    "shortDescription": "Una delle quattro maggiori basiliche papali in Rome, dedicated to Saint Paul.",
+    "highlights": [
+      {
+        "title": "Basilica nave and apse"
+      },
+      {
+        "title": "Cloister and mosaics"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 7:00–18:30; cloister ticket separate."
+    }
+  },
+  "q3867590_casina_delle_civette": {
+    "shortDescription": "Casa museo in stile Art Nouveau in Villa Torlonia with stained glass and decorative interiors.",
+    "highlights": [
+      {
+        "title": "Stained-glass rooms"
+      },
+      {
+        "title": "Art Nouveau interiors"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q486382_castel_santangelo": {
+    "name": "Castel Sant'Angelo",
+    "shortDescription": "Antico mausoleo imperiale transformed into fortress and museum near the Tiber.",
+    "highlights": [
+      {
+        "title": "Ramparts and terraces"
+      },
+      {
+        "title": "Papal apartments"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–19:30; chiuso il lunedì."
+    }
+  },
+  "q1053970_centrale_montemartini": {
+    "name": "Centrale Montemartini",
+    "shortDescription": "Ex centrale elettrica displaying classical sculptures amid industrial machinery.",
+    "highlights": [
+      {
+        "title": "Sculpture in turbine hall"
+      },
+      {
+        "title": "Mosaic and portrait rooms"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q1192577_santagnese_in_agone": {
+    "shortDescription": "Chiesa barocca on Piazza Navona with rich decoration and historical significance.",
+    "highlights": [
+      {
+        "title": "Borromini façade"
+      },
+      {
+        "title": "Dome frescoes"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:00–13:00 and 15:00–19:00; hours may vary."
+    }
+  },
+  "q1465674_santignazio_church": {
+    "shortDescription": "Chiesa barocca in central Rome known for its illusionistic frescoes and Jesuit history.",
+    "highlights": [
+      {
+        "title": "Andrea Pozzo ceiling fresco"
+      },
+      {
+        "title": "Illusionistic dome"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 7:30–19:00; respect services."
+    }
+  },
+  "q1258576_san_pietro_in_montorio": {
+    "shortDescription": "Chiesa storica on the Janiculum hill known for Bramante's Tempietto.",
+    "highlights": [
+      {
+        "title": "Bramante's Tempietto"
+      },
+      {
+        "title": "Janiculum views"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 8:30–12:00 and 15:00–18:00; Tempietto in cloister."
+    }
+  },
+  "q207808_circus_maximus": {
+    "name": "Circo Massimo",
+    "shortDescription": "Antico stadio per le corse dei carri now a public park with views toward the Palatine.",
+    "highlights": [
+      {
+        "title": "Track and spina ruins"
+      },
+      {
+        "title": "Palatine Hill backdrop"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Outdoor archaeological area; walkable park open daily."
+    }
+  },
+  "q10285_colosseum": {
+    "name": "Colosseo",
+    "shortDescription": "Il grande anfiteatro dell'antica Roma and uno dei monumenti più riconoscibili al mondo.",
+    "highlights": [
+      {
+        "title": "Arena e ipogei"
+      },
+      {
+        "title": "Upper tiers and views"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:00–19:15; last entry varies by season. Closed 1 Jan and 25 Dec."
+    }
+  },
+  "q2301489_doria_pamphilj_gallery": {
+    "name": "Galleria Doria Pamphilj",
+    "shortDescription": "Galleria in palazzo privato with Velázquez, Caravaggio, and Bernini in a noble Roman residence.",
+    "highlights": [
+      {
+        "title": "Velázquez papal portrait"
+      },
+      {
+        "title": "Gallery of Mirrors"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Mon–Thu and Sat–Sun 9:00–19:00; Fri 11:00–19:00."
+    }
+  },
+  "q841506_galleria_borghese": {
+    "shortDescription": "Importante museo d'arte in Villa Borghese, renowned for Bernini sculptures and Caravaggio paintings.",
+    "highlights": [
+      {
+        "title": "Apollo and Daphne (Bernini)"
+      },
+      {
+        "title": "David (Bernini)"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun by timed entry; chiuso il lunedì."
+    }
+  },
+  "q1971299_galleria_colonna": {
+    "name": "Galleria Colonna",
+    "shortDescription": "Storica galleria in palazzo romano with aristocratic collections and richly decorated halls.",
+    "highlights": [
+      {
+        "title": "Great Hall"
+      },
+      {
+        "title": "Palace apartments"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Sat 9:00–13:15; some Fri mornings—check official calendar."
+    }
+  },
+  "q3757712_galleria_arte_moderna_roma": {
+    "shortDescription": "Museo civico focused on modern and contemporary Roman and Italian art.",
+    "highlights": [
+      {
+        "title": "19th-century Roman art"
+      },
+      {
+        "title": "Temporary exhibitions"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–18:30; chiuso il lunedì."
+    }
+  },
+  "q3757713_galleria_spada": {
+    "shortDescription": "Baroque palace gallery famous for Borromini's forced-perspective colonnade.",
+    "highlights": [
+      {
+        "title": "Borromini perspective gallery"
+      },
+      {
+        "title": "Caravaggio and Titian works"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q724816_jewish_museum_rome": {
+    "name": "Museo Ebraico di Roma",
+    "shortDescription": "Museo sotto la Grande Sinagoga tracing two millennia of Roman Jewish history.",
+    "highlights": [
+      {
+        "title": "Synagogue and museum tour"
+      },
+      {
+        "title": "Jewish Ghetto context"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Sun–Thu guided visits; hours vary—book ahead."
+    }
+  },
+  "q1283630_keats_shelley_house": {
+    "name": "Casa museo Keats-Shelley",
+    "shortDescription": "Casa museo scalinata di Trinità dei Monti where John Keats spent his final months.",
+    "highlights": [
+      {
+        "title": "Keats's room"
+      },
+      {
+        "title": "Romantic poets library"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "lun–sab 10:00–13:00 and 14:00–18:00; closed Sun."
+    }
+  },
+  "leonardo_experience_rome": {
+    "name": "Museo Leonardo Da Vinci Experience",
+    "shortDescription": "Museo interattivo focused on Leonardo da Vinci inventions and reproductions.",
+    "highlights": [
+      {
+        "title": "Machine inventions"
+      },
+      {
+        "title": "Anatomy studies"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:00–19:00."
+    }
+  },
+  "q1356135_macro_rome": {
+    "name": "MACRO - Museo di Arte Contemporanea di Roma",
+    "shortDescription": "Museo d'arte contemporanea in a former Peroni brewery in Salario/Nomentano.",
+    "highlights": [
+      {
+        "title": "Temporary exhibitions"
+      },
+      {
+        "title": "Collezione permanente"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q3868408_maxxi": {
+    "name": "MAXXI - Museo nazionale delle arti del XXI secolo",
+    "shortDescription": "Zaha Hadid-designed museum for contemporary art and architecture in Flaminio.",
+    "highlights": [
+      {
+        "title": "Permanent collections"
+      },
+      {
+        "title": "Architecture gallery"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 11:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q478642_mercati_traiano": {
+    "name": "Mercati di Traiano",
+    "shortDescription": "Mercati imperiali trasformati in museo with panoramic terraces over the ancient city.",
+    "highlights": [
+      {
+        "title": "Great Hall and brick vaults"
+      },
+      {
+        "title": "Forum of Trajan views"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:30–19:30; last entry 18:30."
+    }
+  },
+  "q333906_capitoline_museums": {
+    "shortDescription": "Rome's civic museums on Capitoline Hill, tra i più antichi complessi museali pubblici al mondo.",
+    "highlights": [
+      {
+        "title": "Capitoline Wolf"
+      },
+      {
+        "title": "Colossus of Constantine"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tutti i giorni 9:30–19:30; last entry 18:30."
+    }
+  },
+  "q17636813_musei_villa_torlonia": {
+    "name": "Musei di Villa Torlonia",
+    "shortDescription": "Rete museale all'interno di Villa Torlonia including multiple exhibition spaces.",
+    "highlights": [
+      {
+        "title": "Casino Nobile"
+      },
+      {
+        "title": "Casina delle Civette"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q3867587_museo_carlo_bilotti": {
+    "name": "Museo Carlo Bilotti",
+    "shortDescription": "Museo all'interno di Villa Borghese featuring the Carlo Bilotti collection and rotating exhibitions.",
+    "highlights": [
+      {
+        "title": "Carlo Bilotti collection"
+      },
+      {
+        "title": "Orangery exhibitions"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–16:00; chiuso il lunedì."
+    }
+  },
+  "q3868175_museo_roma_palazzo_braschi": {
+    "name": "Museo di Roma - Palazzo Braschi",
+    "shortDescription": "Museo della storia urbana di Roma, housed in the neoclassical Palazzo Braschi.",
+    "highlights": [
+      {
+        "title": "Rome city history"
+      },
+      {
+        "title": "Views over Piazza Navona"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q3868176_museo_napoleonico": {
+    "name": "Museo Napoleonico",
+    "shortDescription": "Collezione dedicata a Napoleone and his family in a Renaissance palace near Piazza Navona.",
+    "highlights": [
+      {
+        "title": "Bonaparte family portraits"
+      },
+      {
+        "title": "Period furnishings"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q1094986_palazzo_altemps": {
+    "name": "Museo Nazionale Romano - Palazzo Altemps",
+    "shortDescription": "Palazzo rinascimentale che ospita classical sculpture collections within the National Roman Museum system.",
+    "highlights": [
+      {
+        "title": "Ludovisi Battle sarcophagus"
+      },
+      {
+        "title": "Renaissance courtyard"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 11:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q1074320_museum_roman_civilization": {
+    "name": "Museo della Civiltà Romana",
+    "shortDescription": "Museo del quartiere EUR with a vast model of ancient Rome and everyday Roman life displays.",
+    "highlights": [
+      {
+        "title": "Plastico di Roma Imperiale"
+      },
+      {
+        "title": "Daily life collections"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Check official site for current opening—hours have changed during renovations."
+    }
+  },
+  "q15055388_villa_giulia_etruscan": {
+    "name": "Museo Nazionale Etrusco di Villa Giulia",
+    "shortDescription": "Museo di riferimento per la civiltà etrusca, housed in a Renaissance villa.",
+    "highlights": [
+      {
+        "title": "Sarcophagus of the Spouses"
+      },
+      {
+        "title": "Villa Giulia gardens"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–20:00; chiuso il lunedì."
+    }
+  },
+  "q1492387_gnamc": {
+    "name": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+    "shortDescription": "Museo nazionale dedicato all'arte moderna e contemporanea in Rome.",
+    "highlights": [
+      {
+        "title": "19th–21st century masterpieces"
+      },
+      {
+        "title": "De Chirico and Morandi rooms"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00–19:00; chiuso il lunedì."
+    }
+  },
+  "q836108_baths_of_diocletian": {
+    "name": "Museo Nazionale Romano - Terme di Diocleziano",
+    "shortDescription": "Monumentale complesso termale tardo-imperiale integrated into the National Roman Museum itinerary.",
+    "highlights": [
+      {
+        "title": "Great hall of baths"
+      },
+      {
+        "title": "Garden cloister"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 11:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q1094987_palazzo_massimo": {
+    "name": "Museo Nazionale Romano - Palazzo Massimo",
+    "shortDescription": "Eccezionale collezione di scultura classica and Roman fresco rooms near Termini.",
+    "highlights": [
+      {
+        "title": "Boxer at Rest"
+      },
+      {
+        "title": "Garden Villa frescoes"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 11:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q2586829_palatine_hill": {
+    "name": "Palatino",
+    "shortDescription": "Leggendario luogo di fondazione di Roma with imperial palace ruins and views over the Forum.",
+    "highlights": [
+      {
+        "title": "Domus Augustana ruins"
+      },
+      {
+        "title": "Views over Circus Maximus"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Included with Colosseum/Forum combined ticket."
+    }
+  },
+  "q1136614_palazzo_barberini": {
+    "name": "Palazzo Barberini",
+    "shortDescription": "Museo in palazzo barocco hosting part of the National Galleries of Ancient Art.",
+    "highlights": [
+      {
+        "title": "Pietro da Cortona ceiling"
+      },
+      {
+        "title": "Caravaggio and Raphael works"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q1136615_palazzo_corsini": {
+    "name": "Palazzo Corsini - Galleria Nazionale d'Arte Antica",
+    "shortDescription": "Palazzo barocco a Trastevere with Caravaggio, Rubens, and river-side gardens.",
+    "highlights": [
+      {
+        "title": "Caravaggio Saint John"
+      },
+      {
+        "title": "Botanical garden access"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 10:00–18:00; chiuso il lunedì."
+    }
+  },
+  "q99309_pantheon": {
+    "name": "Pantheon",
+    "shortDescription": "Tempio romano antico meglio conservato, now a church with its famous coffered dome and oculus.",
+    "highlights": [
+      {
+        "title": "Dome and oculus"
+      },
+      {
+        "title": "Raphael's tomb"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "lun–sab 9:00–19:00; Sun 9:00–18:00. Mass times may limit visits."
+    }
+  },
+  "q180540_roman_forum": {
+    "name": "Foro Romano",
+    "shortDescription": "Cuore dell'antica Roma with temples, basilicas, and imperial ruins in one archaeological park.",
+    "highlights": [
+      {
+        "title": "Via Sacra and temples"
+      },
+      {
+        "title": "House of the Vestals"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Same ticket and hours as the Colosseum archaeological park."
+    }
+  },
+  "q112972_spanish_steps": {
+    "name": "Scalinata di Trinità dei Monti",
+    "shortDescription": "Monumentale scalinata che collega Piazza di Spagna to Trinità dei Monti.",
+    "highlights": [
+      {
+        "title": "Piazza di Spagna"
+      },
+      {
+        "title": "Trinità dei Monti church"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Outdoor site; sitting on steps may be restricted at times—check local rules."
+    }
+  },
+  "q12501_st_peters_basilica": {
+    "name": "Basilica di San Pietro",
+    "shortDescription": "Principale basilica papale and capolavoro dell'architettura rinascimentale in Vatican City.",
+    "highlights": [
+      {
+        "title": "Michelangelo's Pietà"
+      },
+      {
+        "title": "Dome climb"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Basilica generally 7:00–19:00; dome and grottoes have separate hours and fees."
+    }
+  },
+  "q502098_terme_di_caracalla": {
+    "shortDescription": "Vasto complesso termale imperiale and one of Rome's most impressive archaeological sites.",
+    "highlights": [
+      {
+        "title": "Monumental halls"
+      },
+      {
+        "title": "Summer opera season"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Tue–Sun 9:00 until sunset; chiuso il lunedì."
+    }
+  },
+  "q192784_trajans_column": {
+    "name": "Colonna Traiana",
+    "shortDescription": "Antica colonna di vittoria romana commemorating Trajan's Dacian campaigns.",
+    "highlights": [
+      {
+        "title": "Spiral relief frieze"
+      },
+      {
+        "title": "Forum of Trajan setting"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Outdoor monument, visible at all times."
+    }
+  },
+  "q1741_trevi_fountain": {
+    "name": "Fontana di Trevi",
+    "shortDescription": "Fontana barocca and la fontana romana più famosa per esprimere un desiderio.",
+    "highlights": [
+      {
+        "title": "Oceanus façade"
+      },
+      {
+        "title": "Evening illumination"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Outdoor monument; accessible 24 hours. Expect crowds midday and evening."
+    }
+  },
+  "q182955_vatican_museums": {
+    "name": "Musei Vaticani",
+    "shortDescription": "Uno dei più grandi complessi museali al mondo, con le principali collezioni papali and Renaissance masterpieces.",
+    "highlights": [
+      {
+        "title": "Sistine Chapel ceiling"
+      },
+      {
+        "title": "Gallery of Maps"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "lun–sab 8:00–20:00; last entry 18:00. Last Sun of month 8:00–14:00."
+    }
+  },
+  "q1126723_villa_farnesina": {
+    "name": "Villa Farnesina",
+    "shortDescription": "Villa rinascimentale a Trastevere celebrated for Raphael school frescoes.",
+    "highlights": [
+      {
+        "title": "Loggia of Psyche"
+      },
+      {
+        "title": "Raphael frescoes"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "lun–sab 9:00–17:00; closed Sun."
+    }
+  },
+  "q1362663_villa_medici": {
+    "name": "Villa Medici",
+    "shortDescription": "Storica villa medicea and sede dell'Accademia di Francia a Roma.",
+    "highlights": [
+      {
+        "title": "French Academy gardens"
+      },
+      {
+        "title": "Guided palace tours"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Guided tours on set schedule—book on official site."
+    }
+  },
+  "q474857_villa_torlonia_rome": {
+    "name": "Villa Torlonia",
+    "shortDescription": "Storico complesso di villa romana with landscaped grounds and multiple museum venues.",
+    "highlights": [
+      {
+        "title": "Historic park"
+      },
+      {
+        "title": "Casino Nobile exterior"
+      }
+    ],
+    "visitingInfo": {
+      "hoursNote": "Park open daily; museum buildings have separate hours."
+    }
+  }
+}

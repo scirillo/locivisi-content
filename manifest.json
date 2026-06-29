@@ -1,0 +1,18 @@
+{
+  "contentVersion": 1,
+  "minAppVersion": "1.0",
+  "city": "rome",
+  "files": {
+    "sites": "sites_base_v1.json",
+    "collections": "cities/rome/collections.json",
+    "insights": "cities/rome/insights.json",
+    "itineraries": "cities/rome/itineraries.json",
+    "siteContentIt": "cities/rome/site_content_it.json",
+    "uiStringsEn": "i18n/ui_strings_en.json",
+    "uiStringsIt": "i18n/ui_strings_it.json",
+    "uiStringsEs": "i18n/ui_strings_es.json",
+    "uiStringsFr": "i18n/ui_strings_fr.json",
+    "uiStringsDe": "i18n/ui_strings_de.json",
+    "privacyPolicyEn": "legal/privacy_policy_en.txt"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "classic_3",
+    "titleKey": "itinerary_classic_3_title",
+    "subtitleKey": "itinerary_classic_3_subtitle",
+    "daySiteIds": [
+      [
+        "q10285_colosseum",
+        "q180540_roman_forum",
+        "q2586829_palatine_hill"
+      ],
+      [
+        "q182955_vatican_museums",
+        "q12501_st_peters_basilica",
+        "q486382_castel_santangelo"
+      ],
+      [
+        "q99309_pantheon",
+        "q333906_capitoline_museums",
+        "q1741_trevi_fountain"
+      ]
+    ]
+  },
+  {
+    "id": "classic_5",
+    "titleKey": "itinerary_classic_5_title",
+    "subtitleKey": "itinerary_classic_5_subtitle",
+    "daySiteIds": [
+      [
+        "q10285_colosseum",
+        "q180540_roman_forum",
+        "q2586829_palatine_hill",
+        "q478642_mercati_traiano"
+      ],
+      [
+        "q182955_vatican_museums",
+        "q12501_st_peters_basilica"
+      ],
+      [
+        "q99309_pantheon",
+        "q1741_trevi_fountain",
+        "q112972_spanish_steps",
+        "q333906_capitoline_museums"
+      ],
+      [
+        "q841506_galleria_borghese",
+        "q1126723_villa_farnesina"
+      ],
+      [
+        "q486382_castel_santangelo",
+        "q1137391_santa_maria_trastevere",
+        "q186282_santa_maria_maggiore"
+      ]
+    ]
+  }
+]

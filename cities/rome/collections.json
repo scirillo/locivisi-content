@@ -1,0 +1,31 @@
+[
+  {
+    "id": "papal_basilicas",
+    "titleKey": "collection_papal_basilicas",
+    "siteIds": [
+      "q12501_st_peters_basilica",
+      "q84090_san_giovanni_laterano",
+      "q186282_santa_maria_maggiore",
+      "q231699_san_paolo_fuori_le_mura"
+    ]
+  },
+  {
+    "id": "ancient_heart",
+    "titleKey": "collection_ancient_heart",
+    "siteIds": [
+      "q10285_colosseum",
+      "q180540_roman_forum",
+      "q2586829_palatine_hill",
+      "q99309_pantheon"
+    ]
+  },
+  {
+    "id": "museum_essentials",
+    "titleKey": "collection_museum_essentials",
+    "siteIds": [
+      "q182955_vatican_museums",
+      "q333906_capitoline_museums",
+      "q841506_galleria_borghese"
+    ]
+  }
+]
