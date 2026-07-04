@@ -39,6 +39,9 @@ def main() -> int:
                 errors.append(f"{sid}: highlight '{h.get('title')}' missing imageUrl")
             if not h.get("url"):
                 errors.append(f"{sid}: highlight '{h.get('title')}' missing url")
+        highlight_urls = [h.get("imageUrl") for h in site.get("highlights", []) if h.get("imageUrl")]
+        if len(highlight_urls) != len(set(highlight_urls)):
+            errors.append(f"{sid}: duplicate highlight imageUrl")
         vi = site.get("visitingInfo") or {}
         if not (vi.get("hoursNote") or vi.get("officialUrl") or vi.get("ticketUrl")):
             errors.append(f"{sid}: visitingInfo has no hoursNote/officialUrl/ticketUrl")
