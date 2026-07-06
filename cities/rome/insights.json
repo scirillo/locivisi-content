@@ -1,5 +1,12 @@
 [
   {
+    "id": "nasoni_di_roma",
+    "pillKey": "insight_pill_tip",
+    "textKey": "insight_nasoni_di_roma",
+    "relatedSiteId": null,
+    "externalLinkId": "nasoni_di_roma"
+  },
+  {
     "id": "tip_explore_map",
     "pillKey": "insight_pill_tip",
     "textKey": "insight_explore_map",
