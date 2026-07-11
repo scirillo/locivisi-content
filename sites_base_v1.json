@@ -588,7 +588,7 @@
       "ticketUrl": "https://colosseo.it/en/tickets/",
       "hoursNote": "Daily 9:00–19:15; last entry varies by season. Closed 1 Jan and 25 Dec.",
       "timeToVisitMinutes": 90,
-      "tourUrl": "https://www.getyourguide.com/colosseum-l33/"
+      "tourUrl": "https://www.getyourguide.com/colosseum-l2619/"
     },
     "audio": null,
     "_meta": {
@@ -597,7 +597,7 @@
         "https://www.wikidata.org/wiki/Q10285",
         "https://colosseo.it/"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     }
   },
   {
@@ -674,7 +674,7 @@
       "ticketUrl": "https://ticketvisit.pierreci.it/categoria/galleria-borghese",
       "hoursNote": "Tue–Sun by timed entry; closed Mon.",
       "timeToVisitMinutes": 120,
-      "tourUrl": "https://www.getyourguide.com/galleria-borghese-l2157/"
+      "tourUrl": "https://www.getyourguide.com/borghese-gallery-l3271/"
     },
     "audio": null,
     "_meta": {
@@ -683,7 +683,7 @@
         "https://www.wikidata.org/wiki/Q841506",
         "https://galleriaborghese.beniculturali.it/"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     },
     "featuredOnMap": true
   },
@@ -718,7 +718,7 @@
       "ticketUrl": "http://www.galleriacolonna.it/visit/",
       "hoursNote": "Sat 9:00–13:15; some Fri mornings—check official calendar.",
       "timeToVisitMinutes": 90,
-      "tourUrl": "https://www.getyourguide.com/galleria-colonna-l31598/"
+      "tourUrl": "https://www.getyourguide.com/galleria-colonna-l3290/"
     },
     "audio": null,
     "_meta": {
@@ -727,7 +727,7 @@
         "https://www.wikidata.org/wiki/Q1971299",
         "http://www.galleriacolonna.it"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     },
     "featuredOnMap": false
   },
@@ -1752,7 +1752,7 @@
       "ticketUrl": "https://colosseo.it/en/tickets/",
       "hoursNote": "Same ticket and hours as the Colosseum archaeological park.",
       "timeToVisitMinutes": 120,
-      "tourUrl": "https://www.getyourguide.com/roman-forum-l834/"
+      "tourUrl": "https://www.getyourguide.com/roman-forum-l2618/"
     },
     "audio": null,
     "_meta": {
@@ -1761,7 +1761,7 @@
         "https://www.wikidata.org/wiki/Q180540",
         "https://colosseo.it/"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     }
   },
   {
@@ -1966,7 +1966,7 @@
       "ticketUrl": null,
       "hoursNote": "Outdoor monument; accessible 24 hours. Expect crowds midday and evening.",
       "timeToVisitMinutes": 20,
-      "tourUrl": "https://www.getyourguide.com/trevi-fountain-l1074/"
+      "tourUrl": "https://www.getyourguide.com/trevi-fountain-l2898/"
     },
     "audio": null,
     "_meta": {
@@ -1974,7 +1974,7 @@
       "sourceUrls": [
         "https://www.wikidata.org/wiki/Q1741"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     }
   },
   {
@@ -2008,7 +2008,7 @@
       "ticketUrl": "https://tickets.museivaticani.va/",
       "hoursNote": "Mon–Sat 8:00–20:00; last entry 18:00. Last Sun of month 8:00–14:00.",
       "timeToVisitMinutes": 180,
-      "tourUrl": "https://www.getyourguide.com/vatican-museums-l833/"
+      "tourUrl": "https://www.getyourguide.com/vatican-museums-l2738/"
     },
     "audio": null,
     "_meta": {
@@ -2017,7 +2017,7 @@
         "https://www.wikidata.org/wiki/Q182955",
         "https://www.museivaticani.va/"
       ],
-      "verifiedAt": "2026-07-04"
+      "verifiedAt": "2026-07-11"
     },
     "featuredOnMap": true
   },

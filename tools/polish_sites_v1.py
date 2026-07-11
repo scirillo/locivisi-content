@@ -59,13 +59,15 @@ TICKET_URL_FIXES: dict[str, str] = {
     "q1074320_museum_roman_civilization": "https://www.museociviltaromana.it/en/visit/",
 }
 
+# GetYourGuide destination pages (Places to see) — verify slug-l#### on getyourguide.com.
+# Wrong IDs redirect globally (e.g. l33=Rome city, l833=Hue Vietnam, l1074=Bermuda).
 TOUR_URL_FIXES: dict[str, str] = {
-    "q10285_colosseum": "https://www.getyourguide.com/colosseum-l33/",
-    "q182955_vatican_museums": "https://www.getyourguide.com/vatican-museums-l833/",
-    "q841506_galleria_borghese": "https://www.getyourguide.com/galleria-borghese-l2157/",
-    "q180540_roman_forum": "https://www.getyourguide.com/roman-forum-l834/",
-    "q1741_trevi_fountain": "https://www.getyourguide.com/trevi-fountain-l1074/",
-    "q1971299_galleria_colonna": "https://www.getyourguide.com/galleria-colonna-l31598/",
+    "q10285_colosseum": "https://www.getyourguide.com/colosseum-l2619/",
+    "q182955_vatican_museums": "https://www.getyourguide.com/vatican-museums-l2738/",
+    "q841506_galleria_borghese": "https://www.getyourguide.com/borghese-gallery-l3271/",
+    "q180540_roman_forum": "https://www.getyourguide.com/roman-forum-l2618/",
+    "q1741_trevi_fountain": "https://www.getyourguide.com/trevi-fountain-l2898/",
+    "q1971299_galleria_colonna": "https://www.getyourguide.com/galleria-colonna-l3290/",
 }
 
 
