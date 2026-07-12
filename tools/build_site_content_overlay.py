@@ -56,6 +56,149 @@ NAMES_IT: dict[str, str] = {
 }
 
 
+def polish_it(text: str) -> str:
+    """Fix leftover English glue words after phrase replacements."""
+    replacements = [
+        (" and ", " e "),
+        (" with ", " con "),
+        (" featuring ", ", con "),
+        (" known for ", " noto per "),
+        (" celebrated for ", " celebre per "),
+        (" focused on ", " dedicato a "),
+        (" dedicated to ", " dedicato a "),
+        (" in Rome", " a Roma"),
+        (" in central Rome", " nel centro di Roma"),
+        (" in Trastevere", " a Trastevere"),
+        (" in Vatican City", " in Città del Vaticano"),
+        (" in Flaminio", " a Flaminio"),
+        (" on Capitoline Hill", " sul Campidoglio"),
+        (" on the Janiculum hill", " sul Gianicolo"),
+        (" on Piazza Navona", " su Piazza Navona"),
+        (" near the Tiber", " vicino al Tevere"),
+        (" near Termini", " vicino a Termini"),
+        (" amid industrial machinery", " tra i macchinari industriali"),
+        (" Renaissance masterpieces", " capolavori del Rinascimento"),
+        (" Renaissance architecture", " architettura rinascimentale"),
+        (" medieval mosaics", " mosaici medievali"),
+        (" lively piazza setting", " vivace piazza"),
+        (" historical significance", " rilevanza storica"),
+        (" illusionistic frescoes", " affreschi illusionistici"),
+        (" Jesuit history", " storia gesuita"),
+        (" panoramic terraces", " terrazze panoramiche"),
+        (" aristocratic collections", " collezioni aristocratiche"),
+        (" richly decorated halls", " sale riccamente decorate"),
+        (" contemporary Roman and Italian art", " arte romana e italiana moderna e contemporanea"),
+        (" tracing two millennia of Roman Jewish history", " che racconta duemila anni di storia ebraica romana"),
+        (" inventions and reproductions", " invenzioni e riproduzioni"),
+        (" everyday Roman life displays", " reperti della vita quotidiana romana"),
+        (" imperial palace ruins", " rovine dei palazzi imperiali"),
+        (" views over the Forum", " vista sul Foro"),
+        (" river-side gardens", " giardini sul fiume"),
+        (" landscaped grounds", " parchi storici"),
+        (" multiple exhibition spaces", " diversi spazi espositivi"),
+        (" multiple museum venues", " diverse sedi museali"),
+        (" rotating exhibitions", " mostre temporanee"),
+        (" separate hours", " orari separati"),
+        (" feast days", " giorni festivi"),
+        (" last entry ", " ultimo ingresso "),
+        ("Last Sun of month", "Ultima domenica del mese"),
+        ("respect liturgies", "rispetta le liturgie"),
+        ("may vary on", "possono variare nei"),
+        ("potrebbero richiedere biglietto", "potrebbero richiedere biglietto"),
+        ("cloister and baptistery", "chiostro e battistero"),
+        ("Basilica nave and apse", "Navata e abside della basilica"),
+        ("Medieval cosmatesque floor", "Pavimento cosmatesco medievale"),
+        ("Capitoline staircase", "Scalinata del Campidoglio"),
+        ("5th-century mosaics", "Mosaici del V secolo"),
+        ("Bernini's tomb", "Tomba del Bernini"),
+        ("Apse mosaics", "Mosaici dell'abside"),
+        ("Piazza fountain", "Fontana della piazza"),
+        ("Sistine Chapel ceiling", "Volta della Cappella Sistina"),
+        ("Gallery of Maps", "Galleria delle Carte geografiche"),
+        ("Loggia of Psyche", "Loggia di Psiche"),
+        ("Raphael frescoes", "Affreschi di Raffaello"),
+        ("the Ara Pacis", "l'Ara Pacis"),
+        ("an Augustan altar monument", "un altare monumentale augusteo"),
+        ("an important Marian sanctuary", "un importante santuario mariano"),
+        ("Saint Paul", "San Paolo"),
+        ("transformed into fortress and museum", "trasformato in fortezza e museo"),
+        ("displaying classical sculptures", "con sculture classiche"),
+        ("reached by a monumental staircase", "raggiungibile con una scalinata monumentale"),
+        ("now a public park", "oggi un parco pubblico"),
+        ("with views toward the Palatine", "con vista sul Palatino"),
+        ("in a noble Roman residence", "in una residenza nobiliare romana"),
+        ("renowned for Bernini sculptures and Caravaggio paintings", "celebre per le sculture del Bernini e i dipinti del Caravaggio"),
+        ("famous for Borromini's forced-perspective colonnade", "famoso per il colonnato prospettico del Borromini"),
+        ("where John Keats spent his final months", "dove John Keats trascorse i suoi ultimi mesi"),
+        ("housed in a Renaissance villa", "ospitato in una villa rinascimentale"),
+        ("housed in the neoclassical Palazzo Braschi", "ospitato nel neoclassico Palazzo Braschi"),
+        ("within the National Roman Museum system", "nel circuito del Museo Nazionale Romano"),
+        ("integrated into the National Roman Museum itinerary", "integrato nell'itinerario del Museo Nazionale Romano"),
+        ("and Roman fresco rooms", " e sale con affreschi romani"),
+        ("in one archaeological park", " in un unico parco archeologico"),
+        ("commemorating Trajan's Dacian campaigns", "che commemora le campagne daciche di Traiano"),
+        ("Rome's civic museums", "Musei civici di Roma"),
+        ("including ", "con "),
+    ]
+    for src, dst in replacements:
+        text = text.replace(src, dst)
+    return text
+
+
+HIGHLIGHTS_IT: dict[str, str] = {
+    "Sistine Chapel ceiling": "Volta della Cappella Sistina",
+    "Gallery of Maps": "Galleria delle Carte geografiche",
+    "Arena and hypogeum": "Arena e ipogei",
+    "Upper tiers view": "Vista dai piani superiori",
+    "Façade and nave": "Facciata e navata",
+    "Holy Stairs and baptistery": "Scala Santa e battistero",
+    "Ara Pacis reliefs": "Rilievi dell'Ara Pacis",
+    "Richard Meier pavilion": "Padiglione di Richard Meier",
+    "Apse mosaics": "Mosaici dell'abside",
+    "Piazza fountain": "Fontana della piazza",
+    "Basilica nave and apse": "Navata e abside della basilica",
+    "Medieval cosmatesque floor": "Pavimento cosmatesco medievale",
+    "Capitoline staircase": "Scalinata del Campidoglio",
+    "5th-century mosaics": "Mosaici del V secolo",
+    "Bernini's tomb": "Tomba del Bernini",
+    "Loggia of Psyche": "Loggia di Psiche",
+    "Raphael frescoes": "Affreschi di Raffaello",
+    "Apollo and Daphne (Bernini)": "Apollo e Dafne (Bernini)",
+    "Caravaggio and Raphael works": "Opere di Caravaggio e Raffaello",
+    "Caravaggio and Titian works": "Opere di Caravaggio e Tiziano",
+    "Caravaggio Saint John": "San Giovanni di Caravaggio",
+    "Boxer at Rest": "Pugile a riposo",
+    "Bramante's Tempietto": "Tempietto del Bramante",
+    "Capitoline Wolf": "Lupa capitolina",
+    "Colossus of Constantine": "Colosso di Costantino",
+    "Dying Gaul": "Galata morente",
+    "Discus Thrower": "Discobolo",
+    "Farnese Hercules": "Ercole Farnese",
+    "Frescoed rooms": "Sale affrescate",
+    "Imperial rooms": "Sale imperiali",
+    "Main facade": "Facciata principale",
+    "Main hall": "Sala principale",
+    "Main nave": "Navata principale",
+    "Main staircase": "Scalinata principale",
+    "Main terrace": "Terrazza principale",
+    "Map room": "Sala delle mappe",
+    "Octagonal courtyard": "Cortile ottagonale",
+    "Portrait gallery": "Galleria dei ritratti",
+    "Raphael Rooms": "Stanze di Raffaello",
+    "Raphael loggias": "Logge di Raffaello",
+    "Roman Forum view": "Vista sul Foro Romano",
+    "Saint Peter's dome view": "Vista sulla cupola di San Pietro",
+    "Spiral ramp": "Rampa a chiocciola",
+    "Temple interior": "Interno del tempio",
+    "Trevi view from above": "Vista su Fontana di Trevi dall'alto",
+    "Vatican corridor": "Corridoio vaticano",
+    "Villa gardens": "Giardini della villa",
+    "Villa grounds": "Parchi della villa",
+    "Villa exterior": "Esterno della villa",
+    "Villa interior": "Interno della villa",
+}
+
+
 def translate_description(en: str) -> str:
     """Lightweight EN→IT pass for catalogue blurbs (v1 seed; refine over time)."""
     replacements = [
@@ -120,7 +263,7 @@ def translate_description(en: str) -> str:
     text = en
     for src, dst in replacements:
         text = text.replace(src, dst)
-    return text
+    return polish_it(text)
 
 
 def translate_hours(en: str) -> str:
@@ -136,10 +279,12 @@ def translate_hours(en: str) -> str:
     ]
     for src, dst in replacements:
         text = text.replace(src, dst)
-    return text
+    return polish_it(text)
 
 
 def translate_highlight(title: str) -> str:
+    if title in HIGHLIGHTS_IT:
+        return HIGHLIGHTS_IT[title]
     replacements = [
         ("Façade and nave", "Facciata e navata"),
         ("Holy Stairs and baptistery", "Scala Santa e battistero"),
