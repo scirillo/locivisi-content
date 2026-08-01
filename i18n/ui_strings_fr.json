@@ -55,6 +55,7 @@
   "save": "Enregistrer",
   "update": "Mettre à jour",
   "edit_note": "Modifier la note",
+  "delete_note": "Supprimer la note",
   "back": "Retour",
   "status": "Statut",
   "error_loading": "Impossible de charger les données.",

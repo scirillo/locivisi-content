@@ -55,6 +55,7 @@
   "save": "Speichern",
   "update": "Aktualisieren",
   "edit_note": "Notiz bearbeiten",
+  "delete_note": "Notiz löschen",
   "back": "Zurück",
   "status": "Status",
   "error_loading": "Daten konnten nicht geladen werden.",

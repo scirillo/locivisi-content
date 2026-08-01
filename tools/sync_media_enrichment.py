@@ -77,9 +77,14 @@ RETAINED: dict[str, dict] = {
                 thumb("Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg", 960),
             ),
             hl(
-                "David (Bernini)",
+                "The Rape of Proserpina (Bernini)",
                 "https://galleriaborghese.beniculturali.it/",
-                thumb("David_(Bernini)_-_Galleria_Borghese.jpg", 960),
+                thumb("Rape_of_Prosepina_September_2015-3a.jpg", 960),
+            ),
+            hl(
+                "David with the Head of Goliath (Caravaggio)",
+                "https://galleriaborghese.beniculturali.it/",
+                thumb("David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg", 960),
             ),
         ],
     ),

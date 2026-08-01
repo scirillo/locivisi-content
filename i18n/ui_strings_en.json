@@ -55,6 +55,7 @@
   "save": "Save",
   "update": "Update",
   "edit_note": "Edit note",
+  "delete_note": "Delete note",
   "back": "Back",
   "status": "Status",
   "error_loading": "Unable to load data.",

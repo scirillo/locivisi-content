@@ -662,10 +662,20 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg/960px-Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg"
       },
       {
-        "title": "David (Bernini)",
+        "title": "The Rape of Proserpina (Bernini)",
         "url": "https://galleriaborghese.beniculturali.it/",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_(Bernini)_-_Galleria_Borghese.jpg/960px-David_(Bernini)_-_Galleria_Borghese.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rape_of_Prosepina_September_2015-3a.jpg/960px-Rape_of_Prosepina_September_2015-3a.jpg"
+      },
+      {
+        "title": "David with the Head of Goliath (Caravaggio)",
+        "url": "https://galleriaborghese.beniculturali.it/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/960px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg"
       }
+    ],
+    "nearbySiteIds": [
+      "q3867587_museo_carlo_bilotti",
+      "q1492387_gnamc",
+      "q1136614_palazzo_barberini"
     ],
     "visitingInfo": {
       "ticketRequired": true,

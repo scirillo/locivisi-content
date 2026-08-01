@@ -55,6 +55,7 @@
   "save": "Guardar",
   "update": "Actualizar",
   "edit_note": "Editar nota",
+  "delete_note": "Eliminar nota",
   "back": "Atrás",
   "status": "Estado",
   "error_loading": "No se pudieron cargar los datos.",

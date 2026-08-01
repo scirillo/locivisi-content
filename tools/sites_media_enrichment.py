@@ -352,7 +352,8 @@ MEDIA: dict[str, dict] = {
         "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Roma_Museo_Borghese.jpg/1280px-Roma_Museo_Borghese.jpg",
         [
             hl("Apollo and Daphne (Bernini)", "https://galleriaborghese.beniculturali.it/", "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg/960px-Apollo_and_Daphne_by_Bernini_(Galleria_Borghese).jpg"),
-            hl("David (Bernini)", "https://galleriaborghese.beniculturali.it/", "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_(Bernini)_-_Galleria_Borghese.jpg/960px-David_(Bernini)_-_Galleria_Borghese.jpg"),
+            hl("The Rape of Proserpina (Bernini)", "https://galleriaborghese.beniculturali.it/", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rape_of_Prosepina_September_2015-3a.jpg/960px-Rape_of_Prosepina_September_2015-3a.jpg"),
+            hl("David with the Head of Goliath (Caravaggio)", "https://galleriaborghese.beniculturali.it/", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/960px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg"),
         ],
     ),
     "q99309_pantheon": media(
