@@ -143,6 +143,7 @@
   "theme_charcoal": "Carbón (Minimal)",
   "theme_slate": "Pizarra (Moderno)",
   "theme_mid_dark_clean": "Oscuro medio (mapa limpio)",
+  "theme_white": "Blanco (Claro)",
   "use_gradient_background": "Usar fondo con degradado",
   "recently_visited": "Visitados recientemente",
   "see_all": "Ver todo",
@@ -219,5 +220,7 @@
   "apply": "Aplicar",
   "reset": "Restablecer",
   "zoom_in": "Acercar",
-  "zoom_out": "Alejar"
+  "zoom_out": "Alejar",
+  "next_tip": "Siguiente consejo",
+  "reset_data_confirm": "Esto borra visitados, por visitar, el planificador y las notas. No se puede deshacer."
 }

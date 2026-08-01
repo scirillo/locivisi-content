@@ -143,6 +143,7 @@
   "theme_charcoal": "Charbon (Minimal)",
   "theme_slate": "Ardoise (Moderne)",
   "theme_mid_dark_clean": "Sombre moyen (carte épurée)",
+  "theme_white": "Blanc (Clair)",
   "use_gradient_background": "Fond en dégradé",
   "recently_visited": "Récemment visités",
   "see_all": "Tout voir",
@@ -219,5 +220,7 @@
   "apply": "Appliquer",
   "reset": "Réinitialiser",
   "zoom_in": "Zoom avant",
-  "zoom_out": "Zoom arrière"
+  "zoom_out": "Zoom arrière",
+  "next_tip": "Conseil suivant",
+  "reset_data_confirm": "Cela efface visités, à voir, le planificateur et les notes. Action irréversible."
 }

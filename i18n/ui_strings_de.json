@@ -143,6 +143,7 @@
   "theme_charcoal": "Kohle (Minimal)",
   "theme_slate": "Schiefer (Modern)",
   "theme_mid_dark_clean": "Mitteldunkel (saubere Karte)",
+  "theme_white": "Weiß (Hell)",
   "use_gradient_background": "Verlaufshintergrund",
   "recently_visited": "Kürzlich besucht",
   "see_all": "Alle anzeigen",
@@ -219,5 +220,7 @@
   "apply": "Anwenden",
   "reset": "Zurücksetzen",
   "zoom_in": "Hineinzoomen",
-  "zoom_out": "Herauszoomen"
+  "zoom_out": "Herauszoomen",
+  "next_tip": "Nächster Tipp",
+  "reset_data_confirm": "Löscht Besucht, Merkliste, Planer und Notizen. Das kann nicht rückgängig gemacht werden."
 }

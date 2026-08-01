@@ -143,6 +143,7 @@
   "theme_charcoal": "Carbone (Minimale)",
   "theme_slate": "Ardesia (Moderno)",
   "theme_mid_dark_clean": "Scuro medio (mappa pulita)",
+  "theme_white": "Bianco (Chiaro)",
   "use_gradient_background": "Sfondo con gradiente",
   "recently_visited": "Visitati di recente",
   "see_all": "Vedi tutto",
@@ -219,5 +220,7 @@
   "apply": "Applica",
   "reset": "Reimposta",
   "zoom_in": "Zoom avanti",
-  "zoom_out": "Zoom indietro"
+  "zoom_out": "Zoom indietro",
+  "next_tip": "Prossimo consiglio",
+  "reset_data_confirm": "Cancella visitati, da visitare, giorni del planner e note. L’azione non si può annullare."
 }

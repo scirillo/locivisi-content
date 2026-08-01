@@ -147,6 +147,7 @@
   "theme_charcoal": "Charcoal (Minimal)",
   "theme_slate": "Slate (Modern)",
   "theme_mid_dark_clean": "Mid Dark (Clean Map)",
+  "theme_white": "White (Light)",
   "use_gradient_background": "Use gradient background",
   "recently_visited": "Recently visited",
   "see_all": "See all",
@@ -219,5 +220,7 @@
   "insight_rome_layers": "Much of central Rome sits atop earlier Roman, medieval, and Renaissance layers.",
   "insight_caracalla": "The Baths of Caracalla could host thousands of bathers and covered about 25 acres.",
   "zoom_in": "Zoom in",
-  "zoom_out": "Zoom out"
+  "zoom_out": "Zoom out",
+  "next_tip": "Next tip",
+  "reset_data_confirm": "This clears visited, want, planner days, and notes. This cannot be undone."
 }
