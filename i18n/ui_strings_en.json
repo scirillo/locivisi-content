@@ -15,7 +15,7 @@
   "your_note": "Your note",
   "your_notes": "Your notes",
   "your_take": "Your take",
-  "add_your_take": "Your take",
+  "add_your_take": "Add a thought",
   "note_prompt_worth_it": "Worth the queue?",
   "note_prompt_overrated": "Overrated?",
   "note_prompt_remember": "Remember for next trip",
@@ -200,7 +200,7 @@
   "onboarding_slide1_title": "Explore Rome",
   "onboarding_slide1_body": "Browse all Rome sites on the map — tap a pin or search to open details.",
   "onboarding_your_take_title": "Your take",
-  "onboarding_your_take_body": "After a visit, jot what you thought — private notes just for you. Worth the queue? Overrated? Your call.",
+  "onboarding_your_take_body": "After a visit, jot what you thought — private notes just for you.",
   "onboarding_slide2_title": "Save your journey",
   "onboarding_slide2_body": "Mark places as visited or want to visit — keep track of where you've been and what's next.",
   "onboarding_slide3_title": "Plan your trip",
@@ -229,5 +229,10 @@
   "zoom_in": "Zoom in",
   "zoom_out": "Zoom out",
   "next_tip": "Next tip",
-  "reset_data_confirm": "This clears visited, want, planner days, and notes. This cannot be undone."
+  "reset_data_confirm": "This clears visited, want, planner days, and notes. This cannot be undone.",
+  "add_a_thought": "Add a thought",
+  "delete_note_confirm_title": "Delete this note?",
+  "delete_note_confirm_body": "This can't be undone.",
+  "note_saved": "Note saved",
+  "done": "Done"
 }

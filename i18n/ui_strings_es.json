@@ -15,7 +15,7 @@
   "your_note": "Tu nota",
   "your_notes": "Tus notas",
   "your_take": "Tu opinión",
-  "add_your_take": "Tu opinión",
+  "add_your_take": "Escribe algo",
   "note_prompt_worth_it": "¿Merece la cola?",
   "note_prompt_overrated": "¿Sobrevalorado?",
   "note_prompt_remember": "Recordar para la próxima",
@@ -170,7 +170,7 @@
   "onboarding_slide1_title": "Explora Roma",
   "onboarding_slide1_body": "Explora todos los sitios de Roma en el mapa — toca un pin o busca.",
   "onboarding_your_take_title": "Tu opinión",
-  "onboarding_your_take_body": "Después de una visita, anota lo que pensaste — notas privadas solo para ti. ¿Merece la cola? ¿Sobrevalorado? Tú decides.",
+  "onboarding_your_take_body": "Después de una visita, anota lo que pensaste — notas privadas solo para ti.",
   "onboarding_slide2_title": "Guarda tu viaje",
   "onboarding_slide2_body": "Marca visitados o pendientes — lleva el control de dónde has estado y qué sigue.",
   "onboarding_slide3_title": "Planifica tu viaje",
@@ -229,5 +229,10 @@
   "zoom_in": "Acercar",
   "zoom_out": "Alejar",
   "next_tip": "Siguiente consejo",
-  "reset_data_confirm": "Esto borra visitados, por visitar, el planificador y las notas. No se puede deshacer."
+  "reset_data_confirm": "Esto borra visitados, por visitar, el planificador y las notas. No se puede deshacer.",
+  "add_a_thought": "Escribe algo",
+  "delete_note_confirm_title": "¿Eliminar esta nota?",
+  "delete_note_confirm_body": "Esta acción no se puede deshacer.",
+  "note_saved": "Nota guardada",
+  "done": "Listo"
 }

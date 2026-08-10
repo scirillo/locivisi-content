@@ -15,7 +15,7 @@
   "your_note": "La tua nota",
   "your_notes": "Le tue note",
   "your_take": "La tua opinione",
-  "add_your_take": "La tua opinione",
+  "add_your_take": "Scrivi qualcosa",
   "note_prompt_worth_it": "Vale la coda?",
   "note_prompt_overrated": "Sopravvalutato?",
   "note_prompt_remember": "Da ricordare per la prossima volta",
@@ -170,7 +170,7 @@
   "onboarding_slide1_title": "Esplora Roma",
   "onboarding_slide1_body": "Sfoglia tutti i siti di Roma sulla mappa — tocca un pin o cerca per aprire i dettagli.",
   "onboarding_your_take_title": "La tua opinione",
-  "onboarding_your_take_body": "Dopo una visita, scrivi cosa ne pensi — note private solo per te. Vale la coda? Sopravvalutato? Decidi tu.",
+  "onboarding_your_take_body": "Dopo una visita, annota cosa ne pensi — note private solo per te.",
   "onboarding_slide2_title": "Salva il tuo viaggio",
   "onboarding_slide2_body": "Segna visitati o da visitare — tieni traccia di dove sei stato e cosa fare dopo.",
   "onboarding_slide3_title": "Pianifica il viaggio",
@@ -229,5 +229,10 @@
   "zoom_in": "Zoom avanti",
   "zoom_out": "Zoom indietro",
   "next_tip": "Prossimo consiglio",
-  "reset_data_confirm": "Cancella visitati, da visitare, giorni del planner e note. L’azione non si può annullare."
+  "reset_data_confirm": "Cancella visitati, da visitare, giorni del planner e note. L’azione non si può annullare.",
+  "add_a_thought": "Scrivi qualcosa",
+  "delete_note_confirm_title": "Eliminare questa nota?",
+  "delete_note_confirm_body": "Questa azione non può essere annullata.",
+  "note_saved": "Nota salvata",
+  "done": "Fatto"
 }

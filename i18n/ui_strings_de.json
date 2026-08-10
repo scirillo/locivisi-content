@@ -15,7 +15,7 @@
   "your_note": "Deine Notiz",
   "your_notes": "Deine Notizen",
   "your_take": "Dein Eindruck",
-  "add_your_take": "Dein Eindruck",
+  "add_your_take": "Etwas notieren",
   "note_prompt_worth_it": "Warteschlange lohnt sich?",
   "note_prompt_overrated": "Überbewertet?",
   "note_prompt_remember": "Für nächste Reise merken",
@@ -170,7 +170,7 @@
   "onboarding_slide1_title": "Rom entdecken",
   "onboarding_slide1_body": "Erkunde alle Roms Sehenswürdigkeiten auf der Karte — tippe auf einen Pin oder suche.",
   "onboarding_your_take_title": "Dein Eindruck",
-  "onboarding_your_take_body": "Nach dem Besuch notierst du deine Gedanken — private Notizen nur für dich. Lohnt sich die Warteschlange? Überbewertet? Du entscheidest.",
+  "onboarding_your_take_body": "Nach dem Besuch kurz festhalten, was du dachtest — private Notizen nur für dich.",
   "onboarding_slide2_title": "Reise festhalten",
   "onboarding_slide2_body": "Markiere besuchte oder gewünschte Orte — behalte den Überblick, wo du warst und was als Nächstes kommt.",
   "onboarding_slide3_title": "Reise planen",
@@ -229,5 +229,10 @@
   "zoom_in": "Hineinzoomen",
   "zoom_out": "Herauszoomen",
   "next_tip": "Nächster Tipp",
-  "reset_data_confirm": "Löscht Besucht, Merkliste, Planer und Notizen. Das kann nicht rückgängig gemacht werden."
+  "reset_data_confirm": "Löscht Besucht, Merkliste, Planer und Notizen. Das kann nicht rückgängig gemacht werden.",
+  "add_a_thought": "Etwas notieren",
+  "delete_note_confirm_title": "Diese Notiz löschen?",
+  "delete_note_confirm_body": "Das kann nicht rückgängig gemacht werden.",
+  "note_saved": "Notiz gespeichert",
+  "done": "Fertig"
 }

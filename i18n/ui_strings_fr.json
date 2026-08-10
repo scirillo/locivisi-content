@@ -15,7 +15,7 @@
   "your_note": "Votre note",
   "your_notes": "Vos notes",
   "your_take": "Votre avis",
-  "add_your_take": "Votre avis",
+  "add_your_take": "Écrire quelque chose",
   "note_prompt_worth_it": "Vaut la file ?",
   "note_prompt_overrated": "Surévalué ?",
   "note_prompt_remember": "À retenir pour la prochaine fois",
@@ -170,7 +170,7 @@
   "onboarding_slide1_title": "Explorez Rome",
   "onboarding_slide1_body": "Parcourez tous les sites de Rome sur la carte — touchez une épingle ou recherchez.",
   "onboarding_your_take_title": "Votre avis",
-  "onboarding_your_take_body": "Après une visite, notez ce que vous en avez pensé — des notes privées rien que pour vous. Ça vaut la file ? Surévalué ? À vous de juger.",
+  "onboarding_your_take_body": "Après une visite, notez ce que vous en avez pensé — des notes privées, juste pour vous.",
   "onboarding_slide2_title": "Enregistrez votre voyage",
   "onboarding_slide2_body": "Marquez les lieux visités ou souhaités — suivez où vous êtes allé et ce qui reste à voir.",
   "onboarding_slide3_title": "Planifiez votre séjour",
@@ -229,5 +229,10 @@
   "zoom_in": "Zoom avant",
   "zoom_out": "Zoom arrière",
   "next_tip": "Conseil suivant",
-  "reset_data_confirm": "Cela efface visités, à voir, le planificateur et les notes. Action irréversible."
+  "reset_data_confirm": "Cela efface visités, à voir, le planificateur et les notes. Action irréversible.",
+  "add_a_thought": "Écrire quelque chose",
+  "delete_note_confirm_title": "Supprimer cette note ?",
+  "delete_note_confirm_body": "Cette action est irréversible.",
+  "note_saved": "Note enregistrée",
+  "done": "OK"
 }
